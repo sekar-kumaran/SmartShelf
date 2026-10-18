@@ -1,0 +1,61 @@
+{
+  "_comment": "This file will be populated after model training and release (Phase 3).",
+  "_status": "placeholder",
+  "model_version": null,
+  "model_name": "smartshelf",
+  "architecture": null,
+  "framework": "ultralytics",
+  "input": {
+    "image_width": 640,
+    "image_height": 640,
+    "channels": 3,
+    "colour_mode": "RGB",
+    "normalisation": "divide_255",
+    "letterboxing": true
+  },
+  "output": {
+    "format": "xyxy_pixel_absolute",
+    "coordinate_convention": "x_min_y_min_x_max_y_max",
+    "confidence_threshold_default": 0.25,
+    "iou_threshold_default": 0.45
+  },
+  "classes": null,
+  "class_count": null,
+  "training": {
+    "dataset": null,
+    "dataset_version": null,
+    "train_images": null,
+    "val_images": null,
+    "test_images": null,
+    "epochs": null,
+    "batch_size": null,
+    "optimizer": null,
+    "image_size": 640,
+    "augmentations": null,
+    "training_hardware": "Google Colab T4 GPU",
+    "training_duration_hours": null
+  },
+  "evaluation": {
+    "map50": null,
+    "map50_95": null,
+    "precision": null,
+    "recall": null,
+    "f1": null,
+    "test_set": null,
+    "evaluated_at": null
+  },
+  "artifact": {
+    "filename": "best.pt",
+    "sha256": null,
+    "size_mb": null,
+    "published_at": null,
+    "repository": null,
+    "download_url": null
+  },
+  "known_limitations": [
+    "Not yet trained — placeholder file",
+    "Trained model limitations to be documented after evaluation"
+  ],
+  "created_at": "2026-10-17",
+  "updated_at": "2026-10-17"
+}

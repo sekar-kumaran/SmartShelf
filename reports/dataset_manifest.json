@@ -1,0 +1,59 @@
+{
+  "dataset_name": "Grocery_Items.v45i.yolo26",
+  "license": "Public Domain",
+  "source": "IIT Patna (Roboflow Universe)",
+  "total_classes": 1816,
+  "splits": {
+    "train": {
+      "image_count": 4922,
+      "label_file_count": 4922,
+      "total_annotations": 62747,
+      "path": "D:\\smartshelf\\Grocery_Items.v45i.yolo26\\train"
+    },
+    "valid": {
+      "image_count": 750,
+      "label_file_count": 750,
+      "total_annotations": 9462,
+      "path": "D:\\smartshelf\\Grocery_Items.v45i.yolo26\\valid"
+    },
+    "test": {
+      "image_count": 311,
+      "label_file_count": 311,
+      "total_annotations": 4097,
+      "path": "D:\\smartshelf\\Grocery_Items.v45i.yolo26\\test"
+    }
+  },
+  "summary": {
+    "total_images": 5983,
+    "total_annotations": 76306,
+    "corrupt_images_count": 0,
+    "corrupt_images": [],
+    "annotation_types": {
+      "standard_bbox_5_val": 62130,
+      "polygon_segmentation": 14176
+    },
+    "classes_with_annotations": 1816,
+    "common_resolutions_top5": [
+      [
+        "1080x1920",
+        1211
+      ],
+      [
+        "500x500",
+        874
+      ],
+      [
+        "4000x3000",
+        808
+      ],
+      [
+        "4032x3024",
+        377
+      ],
+      [
+        "4160x3120",
+        219
+      ]
+    ]
+  }
+}

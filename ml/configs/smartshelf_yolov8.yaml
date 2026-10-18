@@ -1,0 +1,47 @@
+# VIF SmartShelf — YOLOv8 / YOLOv11 Training Configuration
+# Retail Kirana Shelf Vision & Product Intelligence
+
+model:
+  architecture: "yolov8m.pt"  # Pretrained backbone (yolov8n.pt for fast edge, yolov8m.pt for shelf accuracy)
+  task: "detect"
+  pretrained: true
+
+dataset:
+  path: "Grocery_Items.v45i.yolo26"
+  data_yaml: "Grocery_Items.v45i.yolo26/data.yaml"
+  num_classes: 1816
+  imgsz: 640
+
+training:
+  epochs: 50
+  batch_size: 16
+  workers: 4
+  device: 0  # GPU device index, or 'cpu'
+  optimizer: "AdamW"
+  lr0: 0.001
+  lrf: 0.01
+  weight_decay: 0.0005
+  warmup_epochs: 3.0
+  patience: 10
+  save_period: 5
+  cache: false
+  amp: true  # Automatic Mixed Precision
+
+augmentation:
+  hsv_h: 0.015  # Hue augmentation
+  hsv_s: 0.7    # Saturation augmentation for diverse kirana store lighting
+  hsv_v: 0.4    # Value/brightness augmentation for poor shelf lighting
+  degrees: 5.0  # Slight tilt tolerance
+  translate: 0.1
+  scale: 0.5    # Multi-scale product detection
+  shear: 2.0
+  perspective: 0.0001
+  flipud: 0.0   # Shelves are rarely upside down! Keep flipud 0.0
+  fliplr: 0.5   # Left-right mirror is safe
+  mosaic: 1.0   # Mosaic for dense shelf item context
+  mixup: 0.15   # Occlusion robustness
+
+inference:
+  conf_threshold: 0.25
+  iou_threshold: 0.45
+  max_det: 300  # Shelves can have hundreds of items

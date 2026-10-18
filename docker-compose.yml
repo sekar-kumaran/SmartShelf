@@ -1,0 +1,77 @@
+services:
+
+  # ================================================================
+  # PostgreSQL Database
+  # ================================================================
+  db:
+    image: postgres:16-alpine
+    container_name: smartshelf-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: smartshelf
+      POSTGRES_PASSWORD: smartshelf
+      POSTGRES_DB: smartshelf
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U smartshelf -d smartshelf"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ================================================================
+  # FastAPI Inference Service
+  # ================================================================
+  # Uncomment when Dockerfile.api is ready (Phase 7)
+  #
+  # api:
+  #   build:
+  #     context: .
+  #     dockerfile: infra/docker/Dockerfile.api
+  #   container_name: smartshelf-api
+  #   restart: unless-stopped
+  #   ports:
+  #     - "8000:8000"
+  #   env_file:
+  #     - .env
+  #   volumes:
+  #     - ./artifacts/models:/app/models:ro
+  #   depends_on:
+  #     db:
+  #       condition: service_healthy
+  #   healthcheck:
+  #     test: ["CMD", "curl", "-f", "http://localhost:8000/health/live"]
+  #     interval: 30s
+  #     timeout: 10s
+  #     retries: 3
+  #     start_period: 60s
+
+  # ================================================================
+  # Next.js Frontend
+  # ================================================================
+  # Uncomment when Dockerfile.web is ready (Phase 7)
+  # In development, run with: cd apps/web && npm run dev
+  #
+  # web:
+  #   build:
+  #     context: apps/web
+  #     dockerfile: ../../infra/docker/Dockerfile.web
+  #   container_name: smartshelf-web
+  #   restart: unless-stopped
+  #   ports:
+  #     - "3000:3000"
+  #   environment:
+  #     INFERENCE_API_URL: http://api:8000
+  #     NEXT_PUBLIC_DEMO_MODE: "false"
+  #   depends_on:
+  #     - api
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  default:
+    name: smartshelf-network

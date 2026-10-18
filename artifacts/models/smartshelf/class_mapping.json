@@ -1,0 +1,8 @@
+{
+  "_comment": "Class mapping will be populated after dataset inspection (Phase 1) and model training (Phase 3).",
+  "_status": "placeholder",
+  "_format": "Map from integer class_id (string key) to class_name",
+  "_last_updated": "2026-10-17",
+  "_source_datasets": [],
+  "_canonical_classes": "TBD — pending Grocer-Help dataset inspection"
+}

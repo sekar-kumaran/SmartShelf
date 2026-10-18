@@ -1,0 +1,139 @@
+# VIF SmartShelf — .gitignore
+
+# ================================================================
+# NEVER COMMIT THESE
+# ================================================================
+
+# Model weights (too large for Git — use Hugging Face Hub / R2)
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.torchscript
+*.engine
+*.pkl
+
+# Datasets (too large — use dataset storage)
+ml/data/
+datasets/
+data/
+Grocery_Items*
+*.zip
+*.tar.gz
+artifacts/models/*bundle*
+
+# Training runs and outputs (save to Google Drive from Colab)
+runs/
+wandb/
+mlruns/
+lightning_logs/
+
+# Secrets and credentials
+.env
+.env.local
+.env.production
+.env.production.local
+.env.*.local
+*.pem
+*.key
+credentials.json
+service_account.json
+
+# ================================================================
+# Python
+# ================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# Jupyter notebooks — outputs only (keep source)
+# (We commit notebooks but strip outputs with nbstripout)
+.ipynb_checkpoints/
+
+# ================================================================
+# Node.js / Next.js
+# ================================================================
+node_modules/
+.next/
+.nuxt/
+out/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.npm
+
+# ================================================================
+# OS and editors
+# ================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ================================================================
+# Docker
+# ================================================================
+.docker/
+
+# ================================================================
+# Reports (generated — not committed)
+# ================================================================
+reports/*.png
+reports/*.html
+# Keep CSV and JSON reports (small, useful for review)
+
+# ================================================================
+# Temporary files
+# ================================================================
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+
+# ================================================================
+# SAFE TO COMMIT
+# ================================================================
+# (Comments only — things explicitly kept)
+# docs/*.md               — Documentation
+# ml/notebooks/*.ipynb    — Notebook source (stripped outputs)
+# ml/configs/*.yaml       — Training configs
+# artifacts/models/smartshelf/model_metadata.json
+# artifacts/models/smartshelf/class_mapping.json
+# artifacts/models/smartshelf/evaluation_summary.json
+# artifacts/models/smartshelf/model_card.md
+# artifacts/models/smartshelf/SHA256SUMS.txt
+# .env.example            — Template (no secrets)

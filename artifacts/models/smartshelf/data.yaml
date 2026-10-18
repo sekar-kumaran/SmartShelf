@@ -1,0 +1,1822 @@
+path: /content/Grocery_Items.v45i.yolo26/Grocery_Items.v45i.yolo26
+train: /content/Grocery_Items.v45i.yolo26/Grocery_Items.v45i.yolo26/train/images
+val: /content/Grocery_Items.v45i.yolo26/Grocery_Items.v45i.yolo26/valid/images
+test: /content/Grocery_Items.v45i.yolo26/Grocery_Items.v45i.yolo26/test/images
+nc: 1816
+names:
+- 24Mantra
+- 3D_Fryums_Ajwah
+- 50 50 Gol Maal
+- 50 50 sweet and salty
+- 50 50 top
+- 72H_AxeSignature
+- 8am soyachunks
+- ALphonsoMangoPulp_GoldenCrown
+- Aakash
+- Aarambh
+- Aashirvaad
+- Aashirvaad_Besan
+- Aashirvaad_Salt
+- Aashirvaad_TurmericPowder
+- Abzorb
+- AcaciaHoney_KhushNuma
+- Act2
+- Action_Dishwash_Liquid
+- ActiveSaltNeem_Toothpaste_Colgate
+- ActiveSalt_Toothpaste_Colgate
+- Adrenaline_48H_AxeSignature
+- Agarbathi_Bansuri
+- Agarbathi_Baratanatyam
+- Agarbathi_Cycle
+- Agarbatti_SalShakti
+- Agastya
+- Agrabathi_Mangaldeep
+- Agrawal
+- AirFreshner
+- AllOut
+- Almendro
+- AlmondFlour_Granos
+- AlmondKernals_Aram-s
+- Almonds
+- AloFrut_Juice
+- Aloevera_Handwash_Patanjali
+- Aloo Bhujia
+- AlooBhujia_Bicano
+- AlooBhujia_Bikano
+- AlpineFresh_BodySpray_ShotLayerr
+- AlterEgo_BodySpray_ParkAvenue
+- AmericanGarden
+- AmericanPancakeCo
+- AmlaCandy_Patanjali
+- AmlaOil
+- Ammol_LemonMazaa
+- Amul
+- Amul Butter
+- Amul ghee
+- Amul-Dreamlite_Biscuites
+- AmulCool
+- Amul_BadamShake
+- Amul_ButterCookies
+- Amul_Kool
+- Amulya
+- AntiRoachgel_Hit
+- Anymany
+- Apis
+- AplineRose-BlackCurrent_Perfume_YardleyLondon
+- AppleCiderVinegar_AmericanGarden
+- AppleCiderVinegar_CanadianGarden
+- AppleCiderVinegar_JustOrganic
+- AppleCiderVinegar_WOW
+- AppleCiderVinegar_Wanposh
+- Apple_Juice_Tropicana
+- AppyFizz
+- Apricots
+- Apsara
+- Aravalli_Rice
+- Ariel
+- Ashok
+- BC
+- BLackCode_Denver
+- BNatural
+- Babe_BodySpray_Vanesa
+- BabyCereal
+- BabyCorn_GoldenCrown
+- BabyWash_Himalaya
+- Babyrub_Vicks
+- BadamDrink_Cavins
+- BadamDrink_MTR
+- BadamLachha_Bicano
+- BadamMilkshake_Cavins
+- Baggrys
+- Bagrrys
+- Baidyanath
+- Bajaj
+- Bakeshree
+- BakingPaper
+- BakingPowder
+- Balaji
+- Bambino
+- Banana_chips
+- BanneNawabs
+- BasilSeed_Ajwah
+- BasilSeeds
+- Batchelors
+- BathingSoap_LifeBuoy
+- BathingSoap_Pears
+- Bathroom_Cleaner
+- Bauli
+- BauliSavoriz
+- Beans
+- BeardTrimmer_Babila
+- Belgian
+- BerryJam_Mala
+- BesanLaddoo_BigBasket
+- Besan_Rajdhani
+- BhujiaMasala_Brij
+- Bhujia_Bicano
+- Bhujia_FirstCrop
+- Bhujia_Haldirams
+- Bhujialalji
+- Bhujiya_Prabhuji
+- Bicano_PanjeeriLaddu
+- Bigbabol_Chewinggum
+- Bikaji
+- Bikaji Tana bana
+- Bikaji_Kuch Kuch
+- Bikaji_navratan mixtute
+- BikaneriBhujia_Brij
+- Bikano
+- Bikano Aloo Bhujia
+- Bikano Royal Rasgulla
+- Bikano Tasty
+- BikanoRasgulla
+- Bikano_navratan mixtute
+- Bikano_navratanmixtute
+- Bingo
+- BiotinTablets_HKVitals
+- Biotique
+- Biscuit
+- Biscuit_Bourbon_Britania
+- Biscuit_Bourbon_Britannia
+- Biscuit_Bourbon_FullBloom
+- Biscuit_ButterBite_PriyaGold
+- Biscuit_ButterBite_first crop
+- Biscuit_CashewBadam_FirstCrop
+- Biscuit_ChocoRolls_HideandSeek
+- Biscuit_Chocolate_FullBloom
+- Biscuit_DarkFantasy
+- Biscuit_Digestive_FirstCrop
+- Biscuit_GlucosePlus_Sunfeast
+- Biscuit_HideandSeek_Parle
+- Biscuit_Nutrichoice_Arrowroot_Britannia
+- Biscuit_Nutrichoice_Britannia
+- Biscuit_Nutrichoice_Cracker_Britannia
+- Biscuit_Nutricrunch_Britannia
+- Biscuit_SweetnSalty
+- Biscuit_TigerKrunch
+- Biscuits_50_50_Britannia
+- Biscuits_Amul
+- Biscuits_Buttery_50_50_Britannia
+- Bisleri
+- BlackBourbon_Hide-Seek_ParlePlatina
+- BlackMagic_Deo_Spinz
+- BlackPepperPowder_MDH
+- BlackPepper_Catch
+- Bleach_Fem
+- BlueBird
+- BlueCurrents_St.John
+- Blueberries
+- Blueberry_Gaurmia
+- Blush_BodySpray_Eva
+- Blush_FragrantTalc_Envy
+- BodyHairRemover_Veet
+- BodyLotion
+- BodyLotion_Parachute
+- BodyMist_Ossum
+- BodySpray_BoldSecret
+- BodySpray_Eva
+- BodySpray_Jovan
+- BodySpray_ParkAvenue
+- BodySpray_The_Man_Company
+- BodySpray_Women
+- BodySpray_men
+- BombayBiryani_Alamin
+- Bookside
+- Boondi_Jabson-s
+- Boost
+- Borges
+- BoroPlus
+- Boroline
+- Bounce
+- Bounty
+- Bourbon cream biscuits
+- Bourbon_Cremica
+- Bourbon_FullBoom
+- Bread
+- Brij_Bhujia
+- Brij_Namkeen
+- Brij_Panchratan
+- Britannia
+- Britannia_50_50_Biscuits
+- Britannia_WinkinCow_lassi
+- BrookeBond
+- Brown-Haley
+- BrownRice
+- BrowniesBasket
+- Bru
+- BubbleGumFlovour_ToothpasteForKids_DentoShine
+- Budweiser
+- Buldak_Ramen
+- Bumtum_BabyPaints
+- Bumtum_DoobiDoo
+- Butlers
+- Butter
+- ButterBatter
+- ButterBite_Cookies
+- ButterCookies_Amul
+- ButterCookies_Unibic
+- ButterLite_NamkeenJeera_Biscuits
+- Butter_AmulLite
+- Butter_MilkyMist
+- Butter_MotherDairy
+- Butter_Nutralite
+- ButtonMushroom_GoldenCrown
+- Cadbury
+- Cadbury_Celebrations
+- Cake
+- CaliforniaAlmonds_Wonderland
+- CalifornianAlmonds_happilo
+- Candey_Butter_PureBurst
+- Candy
+- Candy_Butter_PureBurst
+- Candy_Chocolate_PureBurst
+- Candy_Halls
+- Candy_KachaAam_PureBurst
+- Candy_KachchaAam_PureBurst
+- Candy_Lacmi
+- Candy_Mandola
+- Candy_Mentos
+- Candy_OrangeBite_Parle
+- Candy_Orange_PureBurst
+- Candy_PureBurst_KachchaAam
+- Candy_PureBurst_MangoTango
+- Candy_PureBurst_Orange
+- Candy_PureBurst_chocolate
+- Candyman_ChocoDouble
+- CaramelBliss_Popcorn_ActII
+- CashewSticks_GoneMad
+- Cashews
+- CastorOil
+- Catch
+- Catch Black Pepper
+- Catch Table Salt
+- Catch chicken masala
+- Catch_Cola
+- Catch_GaramMasala
+- Catch_KashmiriMirchi
+- Catch_MeatMasala
+- Catch_Pepper
+- Catch_SprintUp
+- Catch_jeera powder
+- Cavin
+- Cavin_VaneelaMilkShake
+- Cavins
+- Cerelac_Apple_Nestle
+- Cerelac_Wheat_Nestle
+- ChakkiAtta
+- ChampSportingClub_Denver
+- ChanaMasala_Jobsons
+- ChanaMasala_MinuteMeals_MTR
+- ChanaMasala_MinuteMeals_Mir
+- CharcoalCleangel_Toothpaste_Colgate
+- Charged_thumbsup
+- Cheese
+- CheeseCubes
+- CheeseCubes_D-lecta
+- CheeseCubes_MilkyMist
+- CheeseCubes_MotherDairy
+- CheeseSlices
+- CheeseSlices_Amul
+- CheeseSlices_Britannia
+- CheeseSlices_D-lecta
+- CheeseSlices_Go
+- CheeseSlices_MilkyMist
+- CheeseSlices_MotherDairy
+- Cheese_D-lecta
+- Cheetos
+- Cheezza_Britannia
+- ChefsBasket
+- ChiaSeed_Ajwah
+- ChiaSeeds
+- ChickenMasala_Orika
+- Chik
+- ChileanInshellWalnut_Happilo
+- ChileanInshellWalnut_nutraj
+- ChileanInshellcashenut_Happilo
+- ChileanInshellcashenut_nutraj
+- ChilliPowder_Kanwal
+- Chings
+- Chings_Chutney
+- Chips_Bicano
+- Chips_Crisps_Lays
+- Chips_Doritos
+- Chips_Haldirams
+- Chips_Pudina_haldirams
+- Choco-Pie
+- ChocoBakes_Cookies_Cadbury
+- ChocoFills_Kellogg-s
+- ChocoHazlenut_Cookies_Unibic
+- ChocoNutCookies_Unibic
+- ChocoPie
+- ChocoSpread_HealthyDay_Rasna
+- Chocoflakes_Kwality
+- Chocola
+- ChocolairsGoldCoffee_Cadbury
+- Chocolate
+- ChocolateCookies_Amul
+- ChocolatePeanut_Butter_MB
+- Chocolate_5Star
+- Chocolate_ChoclairsGold_Cadbury
+- Chocolate_ChocoBarXL
+- Chocolate_DairyMilk_Cadbury
+- Chocolate_Horlicks
+- Chocolate_Nutties_Cadburry
+- Chocolate_Snakker_PriyaGold
+- Chocolate_Truffel_Dukes
+- Chocozay
+- ChoiceMega
+- Chokolas
+- Cibaca_Toothpaste_Colgate
+- ClassicButter_Unibic
+- ClassicMalt_Horlicks
+- ClassicSalted_Popcorn_ActII
+- Classicgentleman_Perfume_Yardley
+- Clean-Clear
+- ClinicPlus
+- Cockroach_repllent_baygon
+- Cocktail
+- Cocoa_Cadbury
+- Cocoa_Hershey-s
+- Coconut7BrownSugar_Pocky
+- CoconutCookies_Americana
+- CoconutCookies_Gaia
+- CoconutLadoo_Ajwah
+- CoconutOil_Nirmal
+- CoconutPeda_Ajwah
+- CoconutPowder_Sunrise
+- CoconutWater_CocoRoyal
+- CoffeeMate_Nestle
+- Coffee_FullBloom
+- ColaCandy_Ajwah
+- Colgate
+- Colgate Total12
+- Colgate_BubbleFruit_ChihldPaste
+- Colgate_Strawberry_ChihldPaste
+- Colgate_Toothbrush
+- Colin
+- Comfort
+- Complan
+- CookTop
+- Cookies
+- Cookies_ButterBake
+- CoolKick_NiveaMen
+- CoolWave_Talc_Envy
+- Corainder_Everest
+- CornFlakes_FirstCrop
+- CornSoup_Bambino
+- CornStarch_Brown-Polson
+- Cornflour
+- Cornitos
+- CoughDrops_Honitus_Dabur
+- CoughDrops_Vicks
+- CowGhee_ThackerDairy
+- Crackers_Munchy-s
+- Cranberrries_Granos
+- Cream_Lakme
+- Cream_vitaminFaceWash
+- CremesBiscuit_Strawberry_Cremica
+- CrunchyChocolate_Pepero
+- CrunchyMunchy_Bicano
+- CrunchyMunchy_Bikano
+- CupCakes
+- Curd
+- Curd_MilkyMist
+- Curry_TopRamen
+- CustardPowder_Brown-Polson
+- Cycle
+- Czar_Scent_Fogg
+- DLecta
+- Daawat
+- Daawat_RozanaBasmatiRiceGold
+- Dabur
+- DaimSnax
+- DairyMilk_Chocolate
+- DairyMilk_Silk_Cadbury
+- DalMakhani_RedayMeals_Gits
+- Dal_Bikano
+- Dal_KhattaMeetha_BC
+- Dal_Pitara_DBL
+- Dal_Rajdhani
+- Dalmakhni_Gits
+- Dant Rakshak
+- DantKanti_Toothpaste_Patanjali
+- DarkChocolateChipsCookies_Gaia
+- DarkFantasy_ChocolateShake
+- DarkTemptation_CologneTalc_Axe
+- DarkTemptation_Fragrance_Axe
+- Dates
+- DatesSyrup_Lion
+- Davidoff
+- DelMonte
+- DelMonte_Mayonnaise
+- Delfi
+- Delicious
+- Delifresh
+- Delight
+- Delisious
+- Delmonte_GreenApple
+- Delmonte_Pineapple
+- Delmonte_peachjuice
+- Denver
+- DetergentBar_Henko
+- Dettol
+- Dev
+- Dexolac
+- Dhara
+- Dhara_Oil
+- DiSano
+- DiabeticCare_Nimbark
+- Diamond
+- Diapers
+- Diapers_MamyPokoPants
+- Diapers_Pampers
+- Digestibes_Nutricrunch
+- Digestive_NutriChoice_Britania
+- Discover_BodySpray_ParkAvenue
+- Dishwash_Prill
+- Dishwash_Scrubz
+- Dishwasher_Exo
+- Diva_BodySpray_Vanesa
+- Divine Agro Kasuri Methi
+- Divya
+- DogFood_Pedigree
+- Domex
+- Don_PerfumeDoeSpray_Beardo
+- Donut_Ziggy
+- DoobiDoo_BabyPaints
+- Doritos
+- Dorje
+- Dove
+- Dove_FacialTissue
+- DrOetker
+- DryFruit
+- DryFruitPanjeeriLadoo_Haldiram
+- DryFruits
+- Dukes
+- Dyna Sandal
+- EasyFun
+- EclairOs
+- Eclairs
+- Eclairs_PureBurst
+- EcoValley
+- Eggs
+- Elite
+- Emami
+- Emperia
+- Enchante_Spinz
+- EnergyMax
+- Engage
+- Eno
+- Ensure
+- Enzo
+- Epigamia
+- Everest
+- Everyuth
+- Exotic_Spinz
+- Ezee
+- FabBourbon_Biscuit_Parle
+- FabricConditioner_Softlan
+- Fair-Lovely
+- FairMart
+- Fairmart
+- FaloodaMix_KesarPista_Weikfield
+- FaraliChiwda_Bhujialalji
+- FastCard_GoodNight
+- FennelSeedPowder_Kanwal
+- FerreroRocher
+- Fiama
+- FieryPride_BodySpray_ShotLayerr
+- Fiesta_Dal
+- Figaro
+- Figs
+- Finosta
+- First Crop Bikaneri Bhuji
+- First Crop Potato chips
+- First crop Corn Flakes
+- FishOil_HKVitals
+- Flakes_Choco_FirstCrop
+- FlaxSeeds_Nutraj
+- FlossPicks_DeepClean_DentoShine
+- FlossPicks_DentoShine
+- Fogg
+- FoodCoast
+- ForestSpice_Deodrant_WildStone
+- Fortune
+- Fortune besen
+- Fortune chana sattu
+- Fortune maida
+- Fortune suji
+- Fortune_Sugar
+- Forture indori poha
+- FourSquare_CigarettePack
+- Fox-s
+- Foxs
+- FreshComfort_Deodrant_Nivea
+- FreshGel_Sensodyne
+- FreshMint_Sensodyne
+- Fresho
+- FrozenPackagedFood
+- Fruit-Nut_Cookies_Unibic
+- FruitCocktail_GoldenCrown
+- FruitGummies_Tapi
+- FruitJuice_Litchi_Real
+- Fruitins
+- Frutins
+- Fulvadi_Jabson
+- GM
+- GMFoods
+- Gaia
+- GaiaLite
+- Gaialite
+- Galaxy
+- Gamnuts_DryFruits
+- Gamnuts_Masale
+- Gangwal
+- GaramMasala_Orika
+- Garden Bhelpuri - Sevpuri
+- GarlicPaste_Nilon-s
+- Garnier
+- Gasona_Kudos
+- Geham
+- Geisha
+- Genteel
+- Gentleman_Perfume_YardleyLondon
+- Gerber
+- GetReal
+- Ghadi
+- Ghee
+- Ghee_Cow_PureBurst
+- Gillette
+- Girnar
+- Gits
+- GlassCleaner_Action
+- Glicy
+- Glow
+- Glow-Handsome
+- Glow-Lovely
+- GlucoPlusC_Dabur
+- GlucoPlusD_Dabur
+- Glucon-D
+- GluconD
+- Glycerin
+- Go
+- GoalSportingClub_Denver
+- Godrej
+- GoldFlake_CigarettePack
+- Gold_Nescafe
+- GoldenScent_Next
+- GoneMad
+- Good Life toor dal
+- Good life
+- Good life masoor
+- Good life urad whole
+- GoodDay
+- GoodHome
+- GoodKnight
+- GoodLife
+- GoodMorning
+- Gourmet-sDelite
+- Gowardhan
+- Grand_Coffee_Tata
+- GreenChilliPickle_Nilon-s
+- GreenChilliPickle_Tops
+- GreenTea_Pocky
+- GulabJamunMix_ Bambino
+- GupShupPeanuts_Haldirams
+- Guruji
+- Gustora
+- Guylian
+- Hair-Care
+- HairColor
+- HairDryer_Babila
+- HairOil_Clear
+- HairOil_Indulekha
+- Hair_Color_ColorMate
+- Hajmola
+- Haldiram-s_Chips
+- Haldirams
+- Haldirams_GujratiMix
+- Haldirams_KajuMixture
+- Haldirams_MoongDal
+- Haldirams_Peanuts
+- Hamilton_Perfume_Denver
+- HandSanitizer
+- HandSanitizer_Dettol
+- HandSanitizer_Himalaya
+- HandSanitizer_Lifeboy
+- HandwashVitamins_LifeBouy
+- Handwash_Herbal_Patanjali
+- Handwash_Santoor
+- Happilo
+- Happilo_Almonds
+- Happilo_PeanutButter
+- HappyHappyCreme_Biscuit_Parle
+- Haribo
+- Harpic
+- HastyTasty
+- Hawanan Barbeque Cheese Popcorn
+- Head-Shoulders
+- HealthyLife
+- Heinz
+- HellMann-s_Mayonnaise
+- Hellmanns
+- Hem
+- Herbal_Toothpaste_Colgate
+- Hersheys
+- Hersheys_MilkShake_vaneeliFlavour
+- Hide-Seek_Chocolate_Parle
+- Hide-Seek_CremeSandwiches
+- Hide-Seek_Milano_ParlePlatina
+- Hide-Seek_ParlePlatina
+- Himalaya
+- Hing_Ramdev
+- Hit
+- Hitkary
+- Hocco
+- HoneyOatmeal_Cookies_Unibic
+- Honey_Barosi
+- Honey_GoldDrops
+- Honey_Lion
+- Horlicks
+- Horlicks women-s plus
+- Hurricane_EnergyDrink
+- HyderabadiBiryani_Rehmat
+- HydraEnergy_Deodrant_WildStone
+- IceCream
+- IceCream_Amul
+- IceCream_BaskinRobbins
+- IceCream_Kulfi_Havmor
+- IespressoCoffee_Davidoff
+- ImliCandy_Ajwah
+- IndiShop
+- IndianSweet_MaysorePak_Nandini
+- Indulekha
+- Inhaler_Vicks
+- Insect_Killer_Hit
+- Insect_Killer_strategi
+- Insight_Perfume
+- Intense_Fragrance_Axe
+- Iodex
+- JMRFoods
+- Jabsons
+- Jackpot
+- JaggeryPowder
+- JainsTrupti
+- Jalani
+- Jaljira
+- Jam_Kissan
+- Jam_MixedFruit_Kissan
+- Jam_Patanjali
+- Jeera_GoodLife
+- Jel_SetWet
+- Jet_Imli_Toffee
+- JewelFarmer
+- Johnsons
+- Joiner_Drink
+- Joshina_Hamdard
+- Jovees
+- Joy
+- Jucie_CranberryDelight_Tropicana
+- Jucie_GuavaDelight_Tropicana
+- Jugnu_NapthaleneBalls
+- Juice_Apple_Natural
+- Juice_CoconutMilkDrink_MangoNataDeCoco_Uglobe
+- Juice_CoconutMilkDrink_PineappleNataDeCoco_Uglobe
+- Juice_CranberryDelight_Tropicana
+- Juice_Greenapple_Delmonte
+- Juice_Guava_Real
+- Juice_MixedFruit_Natural
+- Juice_Orange_Real
+- Juice_Peach_Delmonte
+- Juice_Peach_Rani
+- Juice_Pineapple_Delmonte
+- Juice_Pomegranate_Joiner
+- Juice_Pomegrate_Real
+- Juice_Pomegrate_Real_Dabur
+- Juice_Swing
+- Juice_coconut_Paper_Boat
+- JuniorTomatoKetchup_Tops
+- KTH
+- Kaffe
+- KajuMixture_Bikano
+- KalongiSeeds_Ajwah
+- Kamasutra
+- Kapiva
+- KashmiriMixture_Bicano
+- KashmiriMixture_Bikano
+- KashurDal_HudHud
+- KasundiSauce_Elmac
+- Kehwa_Aram-s
+- Kelloggs Corn Flakes Real Haney
+- Kellogs
+- KesarPeda_Ajwah
+- KesarQueen
+- KeshKing
+- Keya
+- KhattaMeetha_FirstCrop
+- KhattaMithaMix_Haldirams
+- Kids_Toothbrush_OralB
+- Kimchi
+- Kimchi_Samyang
+- KinderJoy
+- Kingfisher
+- Kinley
+- Kissan
+- KitchenAffairs
+- KitchenTreasures
+- Knorr
+- KuchKuch_Bikaji
+- Kurkure
+- Kurkure_ChatFills
+- Kurkure_SizzlinHot
+- Kwality
+- Kwality_Muesli
+- L-oreal
+- LactoCalamine
+- Lakme
+- Lal
+- LalMirchPaste_Aram-s
+- Lassi_WinkinCowClassic_Britannia
+- LaxmanRekhaa
+- Layka
+- Lays
+- Lays_American
+- Lays_ChilliLimbu
+- Lays_Indian
+- Lays_Spanish
+- Lays_WestIndies
+- LeCafe
+- Lehar
+- Lemon_Toothpaste_Colgate
+- Lifebuoy
+- Lime_Dishwash_Prill
+- Limonata
+- Lindt
+- Lipton
+- LiquidDeodrant_Lawman_pg3
+- LiquidDetergent_Patanjali
+- LiquidMosquitoRepellent_GoodNight
+- Liril
+- Listerine
+- Lite
+- LittleHearts
+- Lizol
+- LollipopTongueCleaner_DentoShine
+- LondonBubble
+- LondonMist_BodySpray_YardleyLondon
+- LondonMist_Perfume_Yardley
+- Lotte
+- Lotus
+- Lux
+- M-M
+- MB
+- MDH
+- MIxedFruit_Juice_Tropicana
+- MTR
+- Mad_Soap
+- Madhubani
+- Madhuri
+- MadrasiNamkeen_Brij
+- Maggi
+- Magnolia7GrapeFruit_Perfume_YardleyLondon
+- Mahakosh
+- Makhana
+- Makino Nacho chips
+- Mala_MixedFruitJam
+- Malas
+- Malkist
+- Mangalam
+- Mangaldeep
+- MangoBite_Parle
+- MangoFlavour_ToothpasteForKids_DentoShine
+- MangoJuice_Fresca
+- MangoMerry
+- MangoPickle_ImliTree
+- MangoPickle_Tops
+- Manna
+- Marie_McVities
+- Mars
+- Marvel
+- MarvelTea
+- MasalaMunch_Kurkure
+- MasalaNoodles_TopRamen
+- MasalaNoodles_Tops
+- MasalaNoodles_maggi
+- MasalaTikki_Kanwal
+- Masala_CuppaNoodles_Maggi
+- Masala_CuppaNoodles_Manchow
+- Masala_TopRamen
+- MaxFresh_Toothpaste_Colgate
+- MaxProtein
+- MazedaarMasala_CupNoodles
+- Mazic
+- McCain
+- McVities
+- MeatMasala_Orika
+- Meiji
+- MelonSeeds
+- MilkBooster_PureBurst
+- MilkCompound_Morde
+- MilkMagic
+- MilkShakti_Biscuit_Parle
+- Milk_Everyday_Nestle
+- Milk_Rusk_Mario
+- Milka
+- Milkshake_Badam_Cavins
+- Milkshake_Chocolate_Cavins
+- Milkshake_Straberry_Cavins
+- Milkshake_Vanilla_Cavins
+- Milky bar
+- MilkyMist
+- MiniChocolate_Oreo
+- MiniJumbo_MosquuitoCoil_GoodNight
+- MiniMeBakers
+- MinuteMaid
+- MirchiQuormaPaste_Kanwal
+- Mishri
+- MixedFruitJam_Sil
+- MixedPickle_Nilon-s
+- MixedPickle_Tops
+- Mixture_ALLINONE
+- Mixture_Ajwah
+- Mixture_Bicano
+- Mohuns
+- Mojito_Orange_Cravova
+- Mom
+- Moments_Chocolate
+- MomsMagic
+- MomsMagic_Biscuit_Sunfeast
+- Monaco_Biscuit_Parle
+- Monaco_Cheeslings
+- Monaco_PiriPiri
+- MongDal_Bikaji
+- Monita
+- Monster
+- MontexFoil
+- MoongDal_Bikaji
+- MoongFali
+- Mopz Floral Fresh
+- Mopz Lime Fresh
+- MorningDew_Perfume_Yardley
+- Morton
+- MosquitoKiller_Mortein
+- MosquitoOil_Genius_Maxo
+- MosquitoRepellent
+- MosquitoRepellentBlack_Hit
+- MosquitoRepellentRed_Hit
+- Mother-sRecipe
+- MotherDairy
+- MothersRecipe
+- Muesli_King
+- Munch Max
+- MuscleBlaze
+- Museli_Kellogs
+- MustardOil
+- MustardOil_ValleyKing
+- MutterPaneer_MinuteMeals_MTR
+- MutterPaneer_MinuteMeals_Mir
+- MyFruit
+- MysticWhite_Spinz
+- NANPro
+- Nafees
+- NailClipper
+- Nakoda
+- Namkeen
+- Namkeen_AllinOne_BC
+- Namkeen_BombayMixture_BC
+- Namkeen_KhattaMeetha_DC
+- Namkeen_MultiGrain_Jabson
+- NaturalChoice_ChannaDal
+- NaturalChoice_MixDal
+- NaturalChoice_MoongDal
+- NaturalChoice_RajmaChitra
+- NaturalColor_ColorMate
+- NaturalGlow_Deodrant_Nivea
+- NaturalHoney_Capilano
+- Nature-sChoice_Kismis
+- Nature-sChoice_MixedDryFruit
+- Navratan
+- Navratan_FirstCrop
+- NeemActive_Toothpaste
+- Neeraj
+- Neo_BodySpray_ParkAvenue
+- Nescafe
+- Nestle
+- Nestle Cerelac
+- Nilon-s_SAUCE
+- Nilons
+- Nissin
+- Nivea
+- Nongshim
+- NoodleSoup_ShinCup
+- Noodles_Chings_Hot Garlic
+- Noodles_Hakka Noodles
+- Noodles_Jumbo
+- Noodles_Yippee
+- NoonChai_Girnar
+- NoonChai_TezPremium
+- Nusobee_Dexolac
+- Nutella
+- Nutraj
+- Nutralite
+- Nutrela
+- Nutri choice thin arrowroot
+- NutriDelite
+- Nutricia
+- Nutricrunch_Biscuit_Britannia
+- Nutridelite
+- Nuts_Fruits_Berries_Gourmia
+- Nutveda
+- Nyle
+- OLiveOil_Sansu
+- Oats_CrunchyMuesli_Grry-s
+- Oats_ProteinRich_FirstCrop
+- Odonil
+- Oil_RefinedRice_Saffola
+- Oil_Sesame_FirstCrop
+- OldSpice
+- OleevActive
+- OleevSmart
+- OliveOil
+- OliveOil_Jivo
+- OliveOil_KeoKarpin
+- OrangeDrink_MinuteMaid
+- OrangeFlavour_ToothpasteForKids_DentoShine
+- OrangeJuice_Tropicana
+- OrangeSplash_Cookies_Unibic
+- Orbit
+- Oreo
+- OrganicAloeVera_Juice_Nimbark
+- OrganicAmla-Juice_Nimbark
+- OrganicIndia
+- OrganicTattva
+- Organica
+- Organicana
+- Oriental
+- OriginalChocolate_Pepero
+- Orion
+- Ortho_Oil_Zandu
+- Outshine_HandWash
+- Pack_BadamDrink_MTR
+- Pack_Chabaa_PineapplePulp
+- Pack_Chabaa_RedGrapeFruit
+- Pack_Coffee_Nescafe
+- Pack_Delmonte_GreenApple
+- Pack_Juice_Original
+- Pack_Juice_Peach_Delmonte
+- Pack_Juice_Pineapple_Delmonte
+- Pack_Juice_rani
+- PalakPaneer_MinuteMeals_MTR
+- Pancake Mix
+- Panchratna_Bikaji
+- PaneerBhujia_Bikano
+- Pansari_Poha
+- PaperBoat
+- PappaPig
+- PaprikaCashews_GoldenGate
+- Parachute
+- Paramute
+- ParisAgro
+- ParkAvenue
+- Parle
+- ParleGRoyale_Biscuit_Parle
+- ParleG_BigPack_Biscuit_Parle
+- ParleG_Biscuit_Parle
+- Parle_20_20_Nice_Biscuits
+- Parrot
+- Passion_Talc_Envy
+- Pasta Masala
+- Pasta_Fusilli_FirstCrop
+- Pasta_Wokifield
+- PastyPixel
+- Patanjali
+- Patisa_Haldirams
+- PauBhaji_Gits
+- Pav
+- PeanutButter_MyFitness
+- PeanutButter_funfoods
+- PeanutChikki_Parmod
+- Peanut_Butter_AmericanGarden
+- Peanutbutter_Alpino
+- Peanutbutter_FirstCrop
+- Peanutbutter_Pinotola
+- Pearl-Beauty_Deodrant_Nivea
+- Pears
+- PeasInBrine_GoldenCrown
+- PediaSure
+- PeppaPig
+- Peppy
+- Perfume_Denver
+- Pichkoo_TomatoKetchup_Maggi
+- Pickle_DoubleHorse
+- Pickle_Garlic_Mother-s
+- Pickle_KitchenTreasures
+- Pickle_Lime_Mother-s
+- Pickle_Mango_Mother-s
+- Pickle_Mother-sRecipe
+- Piknik
+- PineappleJam_FullBloom
+- PineappleJam_Kissan
+- PineappleSlice_GoldenCrown
+- PinkDelight
+- PinkSalt
+- Pinkrush_facewash
+- Pintola
+- Pipo
+- Pistachios_Wonderland
+- Pitambari
+- PizzaCheese_Go
+- PlainBhujia_Haldirams
+- PlaxSpicyFresh_Colgate
+- PlumCake
+- Poha_FirstCrop
+- Poha_Fortune
+- Ponds
+- Ponds_CharcoalFaceWash
+- Popcorn_Ajwah
+- Potata_Biscuit_Pran
+- PotatoChips_Cream - Onion_FirstCrop
+- Pramod
+- Pramod Tilkut
+- Pramod chikki Gaja
+- Pramod peanut chikki
+- Pramod sweet bliss
+- Pramod_Tilkut
+- Pran
+- PremiumTea_Mohan
+- Prestige
+- Primora
+- Princles
+- Pringles
+- ProNature
+- Protect-Care_Deodrant_NIvea
+- ProteinPlus
+- ProteinWater_Aquatein
+- Protinex
+- Prunes
+- Puffs_Funflips
+- Pulse_CoolTalc_Axe
+- Pulse_Fragrance_Axe
+- Pulses
+- Pulses_Goodlife
+- Pulses_SafeHarvest
+- Pulses_TataSampann
+- PunjabiChole_Gits
+- PunjabiTadka_Bikaji
+- PurHoney_Zandu
+- Pure
+- Purix
+- Pushp
+- Quaker
+- Queen_BodySpray_Vanesa
+- QuinoaSeeds_King
+- Raavi
+- RabdiDrink_Cavins
+- Racy
+- Rafaelo
+- Rajhans
+- RajmaMasala_Gits
+- RajmaMasala_RedayMeals_Gits
+- Ramu
+- Rani_Juice
+- RapidRelief_Sensodyne
+- Rasa
+- Rasna
+- RasoiMagic
+- RaspberryFlavour_ToothpasteForKids_DentoShine
+- Raw
+- RawPressery
+- ReadyToEatNoodles_WaiWai
+- Real
+- RealThai
+- RealThal
+- Real_Juice
+- RedBull
+- RedChilliPowder_Badshah
+- RedChilliPowder_Kanwal
+- RedChilliPowder_Rehmat
+- RedChilliPowder_c
+- RedChilliSauce
+- RedCurrents_St.John
+- RedLabel
+- RedTea_Mohan
+- RefinedOil
+- RefinedOil_Dhara
+- RefinedSoyabeanOil_NutriLive
+- Regular_GluconD
+- Repair-Protect_Sensodyne
+- RevitalH_Woman
+- Revive
+- Rex Baking Powder
+- Rice
+- Rice_Minimogra
+- Rich-Moist_PlumCake_Winkies
+- Rin
+- RiteBite
+- RoastedAndSaltedCashews_Happilo
+- RoastedChana_GoldenGate
+- RoastedFlexSeed_Ajwah
+- RockSalt
+- RoohAfza
+- RoomFreshner
+- Room_Mist_Lia
+- Rostaa
+- RoyalCupTea_Girnar
+- RoyalRatan
+- RoyalRedRoses_BodySpray_YardleyLondon
+- RoyaleGentleman_Perfume_Yardley
+- RuchiStar
+- Rusk_FirstCrop
+- Rusk_Toastea_Amul
+- SRK_AutographCollection_Denver
+- Sachamoti
+- SadaBahar
+- Sadabahar
+- Safal
+- SafeWash
+- Safffola
+- Saffola
+- Saffola Jammuni Veda
+- Saffola oil
+- SahiMixture_Bicano
+- Salt
+- Sams
+- Sanchi
+- Sapphire
+- SaraShree
+- SaunfPowder_Rehmat
+- Saunf_Everest
+- Savera
+- Savlon
+- Sayang
+- Schweppes
+- ScotchBrite
+- ScotchBrite_Scrubber
+- Seacod_CodLiverOilCapsules
+- SeedsandNuts_Happilo
+- SensitivePlus_Toothpaste_Colgate
+- Sensitive_Toothpaste_Colgate
+- Sensitivity-Gum_Sensodyne
+- ShahiMix_Bikano
+- Shampoo_Pantene
+- Shampoo_Shanelle
+- Shan
+- Shan_TandooriMasala
+- ShantaG
+- Shareat
+- ShavingFoam_ViJhon
+- Shero_Vanesa
+- Shot_Perfume_Layerr
+- ShudhUrja
+- Siddhayu
+- SilverCoin
+- Similac
+- Similac_FollowUpFormula_Abbot
+- Simple_GluconD
+- SizzlinHot_Kurkure
+- Skippi
+- Skittles
+- SlicedMushroom_Habit
+- SmartSecret_Fragrance_SummerSpring
+- SmithandJones
+- SnacTac
+- Snackible
+- Snacks_Ajwah
+- Snacks_Kuch-kuch_Bicano
+- Snacks_SnacLite_Haldirams
+- Snacks_ZigZag
+- Snactac
+- Snapin
+- Snicker
+- Snickers
+- Snug
+- SoYum
+- Soap
+- SoapNo1_Godrej
+- Soap_Aloevera_Dettol
+- Soap_Camay
+- Soap_Dettol cool
+- Soap_Fresh
+- Soap_IcyCool_Dettol
+- Soap_Jasmine_Lux
+- Soap_Liril
+- Soap_Neem_Dyna
+- Soap_Original_Dettol
+- Soap_Rose_Lux
+- Soap_Sandal_Dyna
+- Soap_fena
+- Society
+- SocietyTea
+- Sofit
+- SoftDrink
+- SoftDrink_Rasna
+- SoftDrink_cola_Campa
+- SoftDrink_sprite_Campa
+- Softdrink_thumbsup
+- Softouch
+- Soni Fresh
+- SoyaChunks_Ei8amhit
+- SoyaSticks-s_Bikaji
+- SoyaSticks_Bhujialalji
+- SoyaSticks_Jabsons
+- Soya_Sauce_Nilons
+- Spice_Everest
+- Spices_24MantraOrganic
+- Spices_Catch
+- Spices_FineLife
+- Spices_MDH
+- Spices_ProNature
+- SportingClub_Denver
+- Spreads_Hershey-s
+- SpringBlossom_perfume_YardleyLondon
+- SriSri
+- StarBlossom_Perfume_YardleyLondon
+- StarFlowerrazi_Perfume_Yardley
+- Stayfree
+- Sting
+- Storia
+- StrawberryFlovour_ToothpasteForKids_DentoShine
+- Streax
+- String
+- StrongTeeth_Toothpaste_Colgate
+- StuffedChilliPickle_Tops
+- SubhKamal
+- Suffola
+- Sugar
+- SugarFree
+- SugarFreeCookies_Gaia
+- SugarFree_BiskFarm
+- SugarLite
+- Suhana
+- Sultan_Scent_Fogg
+- Sundrop
+- Sunfeast
+- Sunfeast Glucose plus
+- SunflowerOil_Cargill
+- SunflowerSeed_Ajwah
+- SunflowerSeeds_King
+- Sunrich
+- Sunscream_Lakme
+- Sunsilk
+- SuperSarvottam
+- SurfExcel
+- SurfaceDisinfectantSpray_Savlon
+- Svami
+- Swach
+- Swadist
+- Swaminarayan
+- SweetCorn_Snacko
+- SwwetCorn_Sundrop
+- SyntheticClearVinegar_Solar
+- T-Boost_TrueBasics
+- TaaliPeanuts
+- Taaza
+- TabelSalt_catch
+- Tadaa
+- TajMahal
+- Talati
+- Talod
+- Tamarind
+- Tamarind_Dishwash_Prill
+- Tamarind_Priya
+- Tang
+- TastyNutes_Bikano
+- TastyNutes_FirstCrop
+- Tata
+- TataGold
+- TataPremium
+- TataTea taaza
+- Tata_Agni
+- TeaCountry
+- TeaTime
+- TeaValley
+- Tea_3Roses_BrookeBond
+- Tea_ElaichiChai_Shera
+- Tea_Mayur
+- Tea_Ruby_BrookeBond
+- Tea_Shera
+- Tea_royal
+- Tealeaves_DoubleDiamond
+- TedheMedhe_Bingo_AlooBhuja
+- TedheMedhe_Bingo_PulseMix
+- TeekhaMeetha_Bhujialalji
+- TeekhaMeetha_FirstCrop
+- Tetley
+- TheBakersDozen
+- TicTac
+- Tide
+- Tiffany
+- Tiger
+- Timios
+- Tingle
+- Toblerone
+- Toffee_Ajwah
+- ToiletCleaner_Expelz
+- TomatoChilliSauce_Maggi
+- TomatoDiscs_Peppy
+- TomatoKetchup
+- TomatoPuree_GodenCrown
+- TomatoPuree_Kissan
+- TomatoSoup_Bambino
+- TongGarden
+- TooYumm
+- ToothBrush
+- ToothPaste
+- ToothPaste_CloseUp_ExtremeCool
+- ToothPaste_PepsodentG
+- ToothPowder_Colgate
+- Toothbrush_Sensodyne
+- ToothpasteForLittleOnes_DentoShine
+- Toothpaste_Meswak
+- Toothpaste_Meswak_Dabur
+- Toothpaste_RedGel_Dabur
+- Toothpaste_Red_BAEFresh_Dabur
+- Toothpaste_tulsi_Dabur
+- TopBiscuit_Parle
+- TopNTown
+- TopNut
+- TopRamen
+- Top_Biscuit_Parle
+- Top_Ramen
+- Tops
+- Tops_DrinkingChocolate
+- Total12_Toothpaste_Colgate
+- TragacanthGum_Ajwah
+- Trail_Mix_DryFruit
+- Trapa
+- Treat_BasmatiRice
+- Trelish
+- Tresemme
+- Trident
+- TriphalaChurna_Baidyanath
+- Tropicana
+- Truffles_Joyland
+- Trump_Scent_Fogg
+- TulsiGingerTurmeric_OrganicIndia
+- TunaNaturalOil_GoldenCrown
+- TunaOil_GoldenCrown
+- TurkishApricot_Happilo
+- TurmericPowder_Kanwal
+- TurmericPowder_Rehmat
+- Twinings
+- TwistiesNamkeen_FirstCrop
+- Twix
+- Tycoon_Scent_Fogg
+- Ujala
+- UltraPowerBalm_Zandu
+- UltraSensual_Deodrant_WildStone
+- UncleChips
+- Unibic
+- Unibic_CashewBadam_Cookies
+- Upma_Bambino
+- Upma_MTR
+- Utsav
+- VJohn
+- VWash
+- Vahdam
+- VajradantiSF_Toothpaste_Vicco
+- Vanish
+- Vaseline
+- Vatika
+- VedShakti_Toothpaste_Colgate
+- Veeba
+- VegBiryani_Gits
+- VegMayonnaise_Imli_Tree
+- VegMayonnaise_Veeba
+- VeganMayo_HellManns
+- Veggi_CupNoodles_Manchow
+- VeggieManchow_CupNoodles
+- Vermicelli
+- Vicks
+- Vicks_VapoRub_SteamPads
+- Vidal
+- Vim
+- Vim Anti bac
+- Vinegar
+- Vinegar_Everest
+- VisibleWhite_Toothpaste_Colgate
+- VitaminCapsules_Seacod
+- Voilet-Raspberry_Perfume_YardleyLondon
+- Voyage_Perfume_ParkAvenue
+- WSQ_VICCO
+- WaferRoll_Champion
+- Wafer_Orange_FullBloom
+- Wafer_Strawberry_FullBloom
+- Wafers_Gastone_Lago
+- Wafers_Tirameso_Creweto
+- Wafers_Treat_Britannia
+- WaffleBites_Craveto
+- Waffy_Parle
+- WaghBakri
+- WaiWai
+- Walnut
+- WalnutKernels_Kohinoor
+- Walnut_Nutraj
+- Water
+- WatermelonFlovour_ToothpasteForKids_DentoShine
+- WeikField
+- Weikfield
+- WellnessCollection_TGLCo.
+- Wheel
+- Whisper
+- WhiteBread_Dewz
+- WhiteCurrents_St.John
+- WhiteningSmoothSkin_Deodrant_Nivea
+- Whitening_Sensodyne
+- Wilkinson_Sword_Gillette
+- Win2
+- Winegreens
+- Winkies
+- Women-sPlus_Horlicks
+- WomensPlus
+- WottaGirl_Perfume_Layerr
+- Yardley
+- Yeah
+- Yeast
+- YellowBananaChips_Haldirams
+- YellowBlossom_Spinz
+- YogaBar
+- Yogurt
+- Yummies
+- Yummiez
+- Yummy
+- Zandu
+- ZanduBalm
+- Zenzi
+- Zouk_BodySpray_ParkAvenue
+- ZzzQuil_Natura
+- aachar-sethi
+- aashirvaad milk
+- adzanarice_charminar
+- agra petha
+- aircleaner_airwick
+- aircleaner_campure
+- airfreshber_koparo
+- airfreshner_hifresh
+- airfreshner_lavender
+- airfreshner_wonderfresh
+- almondmilk_at
+- amul cow milk
+- amul masti dahi
+- amul moti milk
+- amulcow milk
+- amulmilk
+- amulmithai mate
+- amulspray infant milk food
+- ananda ghee
+- apple_fishermanfriend
+- appy
+- aquafly_water
+- asian cosmos
+- axe
+- bagrry-s corn flakes
+- bajaj hair oil
+- bajaj majesty RX11
+- banana fryums
+- bansal tableware
+- batook
+- bc bikaneri rasgulla
+- bc_rasgulla_ bikaneri
+- beer_oldammaiga
+- besen
+- betty crocker pancske mix
+- bicano kaju mixture
+- bikaneri bhujia first crop
+- bikaneri_bhujia_firstcrop
+- bikano bhelpuri mixture
+- bikano time mixture
+- biscuit_bourbon
+- biscuit_deluxe
+- biscuit_sugarcracker
+- bisk farn googly
+- biskfarm eat fit
+- biskfarm top herbs
+- black salt zoff
+- borges
+- boroplus_bodylotion
+- britannia cow ghee
+- britannia the laughiung cow
+- britannia tiger crunch
+- britannia50 50 time pass
+- britanniacheese slicess
+- brown - Polson custard powder
+- camembert
+- campoor
+- candy_kisses
+- candy_m-m
+- candy_nerds
+- candy_ricola
+- catch black papper
+- catch red chilli powder
+- catch_black_papper
+- cello
+- chabaa_redgrape
+- chabaa_whitegrapefruit
+- chana dal
+- cheese-corn bite
+- cheese_soignon
+- chile
+- chings soy sauce
+- chocalateHorlicks
+- choclate-gaia
+- choclate_ambriona
+- choclate_epigamia
+- choclate_lindberg
+- choclate_loacker
+- choclate_melt
+- classic bread
+- cobra
+- coconut milk_uglobe
+- cod Liver oil capsules
+- colgate max
+- conditioner natural
+- cookie_merba
+- cool freshness
+- cows_ghee
+- cream-vlcc
+- crop oats Yummy protein-rich oats
+- cup noodles italiano
+- dabar anmol hair oil
+- dabar champrash
+- dabar gulabari moisturizing
+- dabur babool
+- dahi_at
+- dalda
+- danaram
+- dantkanti
+- dark fantasy sandwich cream
+- delisoga
+- double diamond tea
+- dove daily shine shampoo
+- dove intense repair shampoo
+- dozo power wash
+- drink_toran
+- drink_torani
+- drools
+- dyna neem soap
+- elmac lemon
+- emami 7oils
+- expelz ultra clean
+- expelz_ultraclean
+- facewash_beardo
+- facewash_coffee
+- facewash_wow
+- fair and handsome
+- fanta
+- femina casserole
+- figo detergent
+- first crop all in one mixture
+- first crop aloo bhujia
+- first crop besan
+- first crop butter cookies
+- first crop cream onion potato chips
+- first crop dry fruit
+- first crop instant noodle
+- first crop navratan
+- first crop oats
+- first crop peanut butter
+- first crop tasty peanut
+- first crop tastypeanuts
+- first crop zahidi dates
+- fist crop navratan
+- fist crop oats
+- fortune indori poha
+- fresca_greenapple
+- freshNatural_Deodrant_Nivea
+- full bloom
+- full bloom classic tea
+- full bloom ketchup
+- full bloom strawberry
+- gaurianjeer
+- ghee_Patanjali
+- ghee_milkfood
+- ginger nuts
+- gits rabdi
+- glow-lovely_cream
+- glow-lovely_winter brightcream
+- gluta-hya_Vaseline
+- go cheese processed
+- go pizza cheese
+- godrej yummiez
+- godrejrich creme
+- goldengate roasted almonds
+- good life chana dal
+- good life jeera
+- greenmint_Mala-s
+- harpic
+- hathi brand mustard oil
+- hawkins
+- head and shoulder 2 in 1
+- highonCranberry_Beer_Coolberg
+- himalaya complete care
+- himalaya neem face wash
+- himalaya shampoo
+- himalayan body lotion
+- hotdog
+- icecream_creambell
+- imli treengreen chilli pickle
+- inchi
+- independence
+- independence biryani special
+- independence dal
+- india gate jeera rice
+- indica easy hair colour
+- intense engage
+- jira_goodlife
+- johnson
+- joyo clean max
+- juice_edwesis
+- juice_sante
+- junior horlicks
+- kachi ghani mustard oil first crop
+- kakaji
+- kelloggy-s corn flakes real honey
+- kellogs corn flakes
+- keya all purpose
+- keya piri piri
+- kissan mixed fruit jam
+- kissan peanut butter
+- knorr chicken soup
+- krack track
+- light frydrate_Vaseline
+- livon
+- loreal colour protect shampoo
+- lotus moisturiser
+- lotus whiteglow
+- making corn
+- mala jamun jam
+- malist cheese
+- mama earth baby body wash
+- mamaearth baby body wash
+- manish
+- manypoko pants
+- masala chai
+- masala_sbm
+- masti oye
+- max protein daily
+- maza
+- mdh amchur powder
+- mdh hing
+- mdh jeera powder
+- mdh kashmiri mirch
+- mdh lal mirch
+- melody
+- men turbobright_Garnier
+- meusli
+- mevities ginger nuts
+- milton
+- minakshi ghee
+- miranda
+- mixture_indiaah
+- mohan red tea
+- mosquito repllent_baygon
+- mosquito repllent_bbhome
+- mosquito repllent_mamaearth
+- mosquito repllents_bodyguard
+- mosquito repllents_campure
+- mother ginger pickle
+- mother recipe garlic pickle
+- mother teekha meeth
+- mothers upma
+- mothers_upma
+- mstick
+- munch the cashew
+- mushroom Soup_Knorr
+- my home
+- namaste india desi ghee
+- napthaleneballs_ultra
+- natural amla shikakai shampoo
+- nescafe classic blast roast
+- nestle lactogen pro
+- nestle nan pro
+- nimbu hi nimbu clanser
+- nivea men deep impact
+- noodles_MastiOye
+- nutralite sampriti ghee
+- oil_iris
+- organic suji
+- osam dahi
+- osam plain dahi
+- osam plaindahi
+- outshuine
+- pack_chabaa_whitegrapefruit
+- paint_asianpaint
+- paneer butterMasala_CuppaNoodles_Maggi
+- pantene advance hairfall solution shampoo
+- paraclute body lotion
+- parle jaggery
+- parle occasions
+- parth jaggery
+- patanjali saundarya face wash
+- peanut_Bicano
+- pedigree
+- phenyl_ambetol
+- poloqueen healthy
+- poloqueen jasmine
+- poloqueen lemon
+- poltcab
+- potato fryums
+- potatochips_kakaji
+- prabhaji  jhakaas mix
+- prabhaji  moong daal
+- prabhaji all in one
+- prabhaji bhujia
+- prabhaji chat pata
+- prabhaji khata meetha
+- prabhji khatta meetha
+- prabhuji moong dal -
+- priemer_terminator
+- priya gold CNC
+- punch the healthy crunch chile
+- punchthehealthy_crunch_chile
+- pure burst cow ghee
+- pureGhee_Amul
+- quickwrapp
+- real man
+- redpaste
+- rite bite nuts-seeds
+- riya bindas
+- riya hum tum
+- roasted vermicelli
+- roomfreshner_ambipur
+- ruchi kheer mix
+- ruchiayuna jaggery
+- saffalo masala oats
+- saffalo oats
+- saffola mustard oil
+- sauce_schezwan
+- savlon deep clean
+- sawan
+- shahi pariwar mustard oil
+- shampoo_Natural
+- shaving_foam_gillete
+- snac tac chana
+- snac tac hot -sour soup
+- snac tac moong dal
+- snac tac navratan mix
+- snac tac tomato ketchup
+- snac tac tomato soup
+- snacks_jabsons
+- snowhite detergent powder
+- soap-protam
+- soap-santoor
+- soap-savloon
+- soap_ghari
+- soap_nip
+- soap_no.1
+- softdrink_arupe
+- softdrink_edwises
+- softdrink_evocus
+- softdrink_raze
+- softdrink_v8
+- sofy anti bacteria
+- soya chunks
+- soya sauce_sam
+- spice chicken_CuppaNoodles_Maggi
+- spout
+- spray_moov
+- sudha lassi
+- sudha milk
+- sudha peda
+- sundrop oil
+- sunfeast dream
+- sweet bliss peanut chikki
+- sweet corn chicken soup_Knorr
+- sweet_marshmelts
+- tata samparn hing
+- tea-tgl
+- the man companyaloevera
+- tomato fryums
+- top Ramen masala
+- top herbs
+- top ramen curry
+- towels_blooms
+- troplcana
+- tsauce_ops
+- uncl
+- vaseline deep moisture
+- vasmol kesh kala
+- veg cheese finger
+- vicco
+- vim Maha bar
+- vintagecheddar_wyke
+- vlcc charco
+- vlcc eternal youth skin firming
+- vlcc insta glow diamonfd bleach
+- wafers-moneta
+- wafers_unibic
+- wal wal takka
+- weikfield
+- whippingcream
+- whiskas
+- white hansha jasmine fragrance
+- white hansha rose fragrance
+- white hansha sanitary
+- whiteningSensitive_Deodrant_Nivea
+- wiekfeild custard powder
+- wildstone code
+- woodpriemer_terminator
+- yardley talc
+- yardleys after shave lotionn
+- yippee
+- zoff

@@ -1,0 +1,1817 @@
+class_id,class_name,instance_count
+0,24Mantra,49
+1,3D_Fryums_Ajwah,1
+2,50 50 Gol Maal,12
+3,50 50 sweet and salty,7
+4,50 50 top,2
+5,72H_AxeSignature,24
+6,8am soyachunks,11
+7,ALphonsoMangoPulp_GoldenCrown,2
+8,Aakash,205
+9,Aarambh,192
+10,Aashirvaad,38
+11,Aashirvaad_Besan,5
+12,Aashirvaad_Salt,4
+13,Aashirvaad_TurmericPowder,3
+14,Abzorb,3
+15,AcaciaHoney_KhushNuma,2
+16,Act2,167
+17,Action_Dishwash_Liquid,3
+18,ActiveSaltNeem_Toothpaste_Colgate,8
+19,ActiveSalt_Toothpaste_Colgate,10
+20,Adrenaline_48H_AxeSignature,10
+21,Agarbathi_Bansuri,5
+22,Agarbathi_Baratanatyam,1
+23,Agarbathi_Cycle,5
+24,Agarbatti_SalShakti,3
+25,Agastya,5
+26,Agrabathi_Mangaldeep,4
+27,Agrawal,1
+28,AirFreshner,64
+29,AllOut,19
+30,Almendro,22
+31,AlmondFlour_Granos,1
+32,AlmondKernals_Aram-s,1
+33,Almonds,126
+34,AloFrut_Juice,18
+35,Aloevera_Handwash_Patanjali,3
+36,Aloo Bhujia,1
+37,AlooBhujia_Bicano,18
+38,AlooBhujia_Bikano,11
+39,AlpineFresh_BodySpray_ShotLayerr,3
+40,AlterEgo_BodySpray_ParkAvenue,1
+41,AmericanGarden,8
+42,AmericanPancakeCo,2
+43,AmlaCandy_Patanjali,1
+44,AmlaOil,132
+45,Ammol_LemonMazaa,1
+46,Amul,1572
+47,Amul Butter,24
+48,Amul ghee,4
+49,Amul-Dreamlite_Biscuites,14
+50,AmulCool,81
+51,Amul_BadamShake,20
+52,Amul_ButterCookies,7
+53,Amul_Kool,6
+54,Amulya,40
+55,AntiRoachgel_Hit,2
+56,Anymany,4
+57,Apis,45
+58,AplineRose-BlackCurrent_Perfume_YardleyLondon,2
+59,AppleCiderVinegar_AmericanGarden,3
+60,AppleCiderVinegar_CanadianGarden,3
+61,AppleCiderVinegar_JustOrganic,5
+62,AppleCiderVinegar_WOW,3
+63,AppleCiderVinegar_Wanposh,18
+64,Apple_Juice_Tropicana,1
+65,AppyFizz,16
+66,Apricots,1
+67,Apsara,30
+68,Aravalli_Rice,5
+69,Ariel,146
+70,Ashok,2
+71,BC,17
+72,BLackCode_Denver,1
+73,BNatural,735
+74,Babe_BodySpray_Vanesa,3
+75,BabyCereal,18
+76,BabyCorn_GoldenCrown,1
+77,BabyWash_Himalaya,3
+78,Babyrub_Vicks,1
+79,BadamDrink_Cavins,4
+80,BadamDrink_MTR,1
+81,BadamLachha_Bicano,1
+82,BadamMilkshake_Cavins,11
+83,Baggrys,3
+84,Bagrrys,119
+85,Baidyanath,48
+86,Bajaj,70
+87,Bakeshree,10
+88,BakingPaper,15
+89,BakingPowder,68
+90,Balaji,124
+91,Bambino,118
+92,Banana_chips,7
+93,BanneNawabs,5
+94,BasilSeed_Ajwah,2
+95,BasilSeeds,5
+96,Batchelors,1
+97,BathingSoap_LifeBuoy,11
+98,BathingSoap_Pears,12
+99,Bathroom_Cleaner,80
+100,Bauli,46
+101,BauliSavoriz,7
+102,Beans,25
+103,BeardTrimmer_Babila,1
+104,Belgian,62
+105,BerryJam_Mala,1
+106,BesanLaddoo_BigBasket,6
+107,Besan_Rajdhani,9
+108,BhujiaMasala_Brij,2
+109,Bhujia_Bicano,2
+110,Bhujia_FirstCrop,1
+111,Bhujia_Haldirams,4
+112,Bhujialalji,4
+113,Bhujiya_Prabhuji,5
+114,Bicano_PanjeeriLaddu,1
+115,Bigbabol_Chewinggum,2
+116,Bikaji,42
+117,Bikaji Tana bana,4
+118,Bikaji_Kuch Kuch,1
+119,Bikaji_navratan mixtute,1
+120,BikaneriBhujia_Brij,2
+121,Bikano,5
+122,Bikano Aloo Bhujia,2
+123,Bikano Royal Rasgulla,3
+124,Bikano Tasty,2
+125,BikanoRasgulla,3
+126,Bikano_navratan mixtute,1
+127,Bikano_navratanmixtute,2
+128,Bingo,98
+129,BiotinTablets_HKVitals,1
+130,Biotique,8
+131,Biscuit,47
+132,Biscuit_Bourbon_Britania,7
+133,Biscuit_Bourbon_Britannia,7
+134,Biscuit_Bourbon_FullBloom,13
+135,Biscuit_ButterBite_PriyaGold,74
+136,Biscuit_ButterBite_first crop,8
+137,Biscuit_CashewBadam_FirstCrop,4
+138,Biscuit_ChocoRolls_HideandSeek,11
+139,Biscuit_Chocolate_FullBloom,2
+140,Biscuit_DarkFantasy,19
+141,Biscuit_Digestive_FirstCrop,3
+142,Biscuit_GlucosePlus_Sunfeast,8
+143,Biscuit_HideandSeek_Parle,2
+144,Biscuit_Nutrichoice_Arrowroot_Britannia,3
+145,Biscuit_Nutrichoice_Britannia,8
+146,Biscuit_Nutrichoice_Cracker_Britannia,4
+147,Biscuit_Nutricrunch_Britannia,4
+148,Biscuit_SweetnSalty,1
+149,Biscuit_TigerKrunch,2
+150,Biscuits_50_50_Britannia,7
+151,Biscuits_Amul,5
+152,Biscuits_Buttery_50_50_Britannia,4
+153,Bisleri,15
+154,BlackBourbon_Hide-Seek_ParlePlatina,1
+155,BlackMagic_Deo_Spinz,2
+156,BlackPepperPowder_MDH,3
+157,BlackPepper_Catch,29
+158,Bleach_Fem,6
+159,BlueBird,83
+160,BlueCurrents_St.John,1
+161,Blueberries,2
+162,Blueberry_Gaurmia,1
+163,Blush_BodySpray_Eva,1
+164,Blush_FragrantTalc_Envy,8
+165,BodyHairRemover_Veet,3
+166,BodyLotion,1
+167,BodyLotion_Parachute,5
+168,BodyMist_Ossum,17
+169,BodySpray_BoldSecret,1
+170,BodySpray_Eva,1
+171,BodySpray_Jovan,3
+172,BodySpray_ParkAvenue,3
+173,BodySpray_The_Man_Company,2
+174,BodySpray_Women,3
+175,BodySpray_men,3
+176,BombayBiryani_Alamin,1
+177,Bookside,3
+178,Boondi_Jabson-s,1
+179,Boost,13
+180,Borges,74
+181,BoroPlus,20
+182,Boroline,3
+183,Bounce,14
+184,Bounty,25
+185,Bourbon cream biscuits,14
+186,Bourbon_Cremica,2
+187,Bourbon_FullBoom,8
+188,Bread,21
+189,Brij_Bhujia,10
+190,Brij_Namkeen,4
+191,Brij_Panchratan,7
+192,Britannia,1421
+193,Britannia_50_50_Biscuits,19
+194,Britannia_WinkinCow_lassi,18
+195,BrookeBond,144
+196,Brown-Haley,90
+197,BrownRice,4
+198,BrowniesBasket,6
+199,Bru,592
+200,BubbleGumFlovour_ToothpasteForKids_DentoShine,2
+201,Budweiser,22
+202,Buldak_Ramen,4
+203,Bumtum_BabyPaints,7
+204,Bumtum_DoobiDoo,3
+205,Butlers,66
+206,Butter,66
+207,ButterBatter,1
+208,ButterBite_Cookies,22
+209,ButterCookies_Amul,3
+210,ButterCookies_Unibic,3
+211,ButterLite_NamkeenJeera_Biscuits,2
+212,Butter_AmulLite,76
+213,Butter_MilkyMist,417
+214,Butter_MotherDairy,189
+215,Butter_Nutralite,261
+216,ButtonMushroom_GoldenCrown,10
+217,Cadbury,1105
+218,Cadbury_Celebrations,14
+219,Cake,10
+220,CaliforniaAlmonds_Wonderland,1
+221,CalifornianAlmonds_happilo,1
+222,Candey_Butter_PureBurst,1
+223,Candy,97
+224,Candy_Butter_PureBurst,7
+225,Candy_Chocolate_PureBurst,1
+226,Candy_Halls,1
+227,Candy_KachaAam_PureBurst,2
+228,Candy_KachchaAam_PureBurst,10
+229,Candy_Lacmi,1
+230,Candy_Mandola,3
+231,Candy_Mentos,2
+232,Candy_OrangeBite_Parle,4
+233,Candy_Orange_PureBurst,10
+234,Candy_PureBurst_KachchaAam,2
+235,Candy_PureBurst_MangoTango,11
+236,Candy_PureBurst_Orange,5
+237,Candy_PureBurst_chocolate,7
+238,Candyman_ChocoDouble,3
+239,CaramelBliss_Popcorn_ActII,3
+240,CashewSticks_GoneMad,1
+241,Cashews,157
+242,CastorOil,2
+243,Catch,143
+244,Catch Black Pepper,2
+245,Catch Table Salt,8
+246,Catch chicken masala,8
+247,Catch_Cola,2
+248,Catch_GaramMasala,12
+249,Catch_KashmiriMirchi,5
+250,Catch_MeatMasala,2
+251,Catch_Pepper,2
+252,Catch_SprintUp,3
+253,Catch_jeera powder,1
+254,Cavin,53
+255,Cavin_VaneelaMilkShake,7
+256,Cavins,15
+257,Cerelac_Apple_Nestle,24
+258,Cerelac_Wheat_Nestle,41
+259,ChakkiAtta,25
+260,ChampSportingClub_Denver,1
+261,ChanaMasala_Jobsons,6
+262,ChanaMasala_MinuteMeals_MTR,4
+263,ChanaMasala_MinuteMeals_Mir,2
+264,CharcoalCleangel_Toothpaste_Colgate,16
+265,Charged_thumbsup,3
+266,Cheese,17
+267,CheeseCubes,15
+268,CheeseCubes_D-lecta,169
+269,CheeseCubes_MilkyMist,49
+270,CheeseCubes_MotherDairy,21
+271,CheeseSlices,55
+272,CheeseSlices_Amul,105
+273,CheeseSlices_Britannia,61
+274,CheeseSlices_D-lecta,91
+275,CheeseSlices_Go,216
+276,CheeseSlices_MilkyMist,246
+277,CheeseSlices_MotherDairy,57
+278,Cheese_D-lecta,368
+279,Cheetos,5
+280,Cheezza_Britannia,8
+281,ChefsBasket,9
+282,ChiaSeed_Ajwah,1
+283,ChiaSeeds,10
+284,ChickenMasala_Orika,1
+285,Chik,4
+286,ChileanInshellWalnut_Happilo,3
+287,ChileanInshellWalnut_nutraj,4
+288,ChileanInshellcashenut_Happilo,1
+289,ChileanInshellcashenut_nutraj,1
+290,ChilliPowder_Kanwal,3
+291,Chings,1302
+292,Chings_Chutney,1
+293,Chips_Bicano,2
+294,Chips_Crisps_Lays,6
+295,Chips_Doritos,7
+296,Chips_Haldirams,2
+297,Chips_Pudina_haldirams,5
+298,Choco-Pie,6
+299,ChocoBakes_Cookies_Cadbury,24
+300,ChocoFills_Kellogg-s,3
+301,ChocoHazlenut_Cookies_Unibic,4
+302,ChocoNutCookies_Unibic,3
+303,ChocoPie,131
+304,ChocoSpread_HealthyDay_Rasna,2
+305,Chocoflakes_Kwality,6
+306,Chocola,15
+307,ChocolairsGoldCoffee_Cadbury,3
+308,Chocolate,67
+309,ChocolateCookies_Amul,3
+310,ChocolatePeanut_Butter_MB,1
+311,Chocolate_5Star,3
+312,Chocolate_ChoclairsGold_Cadbury,2
+313,Chocolate_ChocoBarXL,4
+314,Chocolate_DairyMilk_Cadbury,12
+315,Chocolate_Horlicks,20
+316,Chocolate_Nutties_Cadburry,5
+317,Chocolate_Snakker_PriyaGold,10
+318,Chocolate_Truffel_Dukes,7
+319,Chocozay,3
+320,ChoiceMega,6
+321,Chokolas,4
+322,Cibaca_Toothpaste_Colgate,1
+323,ClassicButter_Unibic,2
+324,ClassicMalt_Horlicks,7
+325,ClassicSalted_Popcorn_ActII,1
+326,Classicgentleman_Perfume_Yardley,3
+327,Clean-Clear,4
+328,ClinicPlus,39
+329,Cockroach_repllent_baygon,1
+330,Cocktail,7
+331,Cocoa_Cadbury,23
+332,Cocoa_Hershey-s,31
+333,Coconut7BrownSugar_Pocky,1
+334,CoconutCookies_Americana,12
+335,CoconutCookies_Gaia,1
+336,CoconutLadoo_Ajwah,2
+337,CoconutOil_Nirmal,69
+338,CoconutPeda_Ajwah,2
+339,CoconutPowder_Sunrise,15
+340,CoconutWater_CocoRoyal,7
+341,CoffeeMate_Nestle,25
+342,Coffee_FullBloom,2
+343,ColaCandy_Ajwah,1
+344,Colgate,9
+345,Colgate Total12,13
+346,Colgate_BubbleFruit_ChihldPaste,3
+347,Colgate_Strawberry_ChihldPaste,1
+348,Colgate_Toothbrush,63
+349,Colin,27
+350,Comfort,147
+351,Complan,61
+352,CookTop,2
+353,Cookies,6
+354,Cookies_ButterBake,2
+355,CoolKick_NiveaMen,7
+356,CoolWave_Talc_Envy,3
+357,Corainder_Everest,3
+358,CornFlakes_FirstCrop,29
+359,CornSoup_Bambino,4
+360,CornStarch_Brown-Polson,66
+361,Cornflour,2
+362,Cornitos,77
+363,CoughDrops_Honitus_Dabur,13
+364,CoughDrops_Vicks,80
+365,CowGhee_ThackerDairy,5
+366,Crackers_Munchy-s,2
+367,Cranberrries_Granos,1
+368,Cream_Lakme,12
+369,Cream_vitaminFaceWash,1
+370,CremesBiscuit_Strawberry_Cremica,4
+371,CrunchyChocolate_Pepero,4
+372,CrunchyMunchy_Bicano,4
+373,CrunchyMunchy_Bikano,11
+374,CupCakes,4
+375,Curd,5
+376,Curd_MilkyMist,192
+377,Curry_TopRamen,7
+378,CustardPowder_Brown-Polson,23
+379,Cycle,9
+380,Czar_Scent_Fogg,4
+381,DLecta,7
+382,Daawat,9
+383,Daawat_RozanaBasmatiRiceGold,3
+384,Dabur,279
+385,DaimSnax,2
+386,DairyMilk_Chocolate,27
+387,DairyMilk_Silk_Cadbury,4
+388,DalMakhani_RedayMeals_Gits,1
+389,Dal_Bikano,4
+390,Dal_KhattaMeetha_BC,6
+391,Dal_Pitara_DBL,5
+392,Dal_Rajdhani,9
+393,Dalmakhni_Gits,1
+394,Dant Rakshak,2
+395,DantKanti_Toothpaste_Patanjali,14
+396,DarkChocolateChipsCookies_Gaia,1
+397,DarkFantasy_ChocolateShake,34
+398,DarkTemptation_CologneTalc_Axe,1
+399,DarkTemptation_Fragrance_Axe,4
+400,Dates,68
+401,DatesSyrup_Lion,57
+402,Davidoff,11
+403,DelMonte,416
+404,DelMonte_Mayonnaise,324
+405,Delfi,6
+406,Delicious,9
+407,Delifresh,26
+408,Delight,2
+409,Delisious,67
+410,Delmonte_GreenApple,7
+411,Delmonte_Pineapple,5
+412,Delmonte_peachjuice,3
+413,Denver,2
+414,DetergentBar_Henko,2
+415,Dettol,403
+416,Dev,5
+417,Dexolac,13
+418,Dhara,16
+419,Dhara_Oil,3
+420,DiSano,9
+421,DiabeticCare_Nimbark,5
+422,Diamond,3
+423,Diapers,82
+424,Diapers_MamyPokoPants,29
+425,Diapers_Pampers,25
+426,Digestibes_Nutricrunch,1
+427,Digestive_NutriChoice_Britania,1
+428,Discover_BodySpray_ParkAvenue,7
+429,Dishwash_Prill,20
+430,Dishwash_Scrubz,57
+431,Dishwasher_Exo,37
+432,Diva_BodySpray_Vanesa,2
+433,Divine Agro Kasuri Methi,6
+434,Divya,1
+435,DogFood_Pedigree,2
+436,Domex,45
+437,Don_PerfumeDoeSpray_Beardo,5
+438,Donut_Ziggy,1
+439,DoobiDoo_BabyPaints,30
+440,Doritos,55
+441,Dorje,2
+442,Dove,300
+443,Dove_FacialTissue,1
+444,DrOetker,2220
+445,DryFruit,6
+446,DryFruitPanjeeriLadoo_Haldiram,11
+447,DryFruits,71
+448,Dukes,136
+449,Dyna Sandal,23
+450,EasyFun,5
+451,EclairOs,14
+452,Eclairs,2
+453,Eclairs_PureBurst,6
+454,EcoValley,1
+455,Eggs,12
+456,Elite,13
+457,Emami,40
+458,Emperia,1
+459,Enchante_Spinz,11
+460,EnergyMax,27
+461,Engage,9
+462,Eno,128
+463,Ensure,58
+464,Enzo,38
+465,Epigamia,20
+466,Everest,468
+467,Everyuth,17
+468,Exotic_Spinz,6
+469,Ezee,17
+470,FabBourbon_Biscuit_Parle,2
+471,FabricConditioner_Softlan,79
+472,Fair-Lovely,37
+473,FairMart,26
+474,Fairmart,1
+475,FaloodaMix_KesarPista_Weikfield,2
+476,FaraliChiwda_Bhujialalji,3
+477,FastCard_GoodNight,2
+478,FennelSeedPowder_Kanwal,4
+479,FerreroRocher,43
+480,Fiama,13
+481,FieryPride_BodySpray_ShotLayerr,3
+482,Fiesta_Dal,5
+483,Figaro,41
+484,Figs,7
+485,Finosta,29
+486,First Crop Bikaneri Bhuji,52
+487,First Crop Potato chips,10
+488,First crop Corn Flakes,11
+489,FishOil_HKVitals,1
+490,Flakes_Choco_FirstCrop,14
+491,FlaxSeeds_Nutraj,1
+492,FlossPicks_DeepClean_DentoShine,1
+493,FlossPicks_DentoShine,2
+494,Fogg,56
+495,FoodCoast,8
+496,ForestSpice_Deodrant_WildStone,7
+497,Fortune,97
+498,Fortune besen,4
+499,Fortune chana sattu,5
+500,Fortune maida,2
+501,Fortune suji,11
+502,Fortune_Sugar,1
+503,Forture indori poha,1
+504,FourSquare_CigarettePack,1
+505,Fox-s,3
+506,Foxs,3
+507,FreshComfort_Deodrant_Nivea,4
+508,FreshGel_Sensodyne,4
+509,FreshMint_Sensodyne,4
+510,Fresho,27
+511,FrozenPackagedFood,145
+512,Fruit-Nut_Cookies_Unibic,2
+513,FruitCocktail_GoldenCrown,2
+514,FruitGummies_Tapi,1
+515,FruitJuice_Litchi_Real,2
+516,Fruitins,15
+517,Frutins,46
+518,Fulvadi_Jabson,1
+519,GM,5
+520,GMFoods,27
+521,Gaia,140
+522,GaiaLite,2
+523,Gaialite,1
+524,Galaxy,27
+525,Gamnuts_DryFruits,2
+526,Gamnuts_Masale,12
+527,Gangwal,78
+528,GaramMasala_Orika,1
+529,Garden Bhelpuri - Sevpuri,1
+530,GarlicPaste_Nilon-s,4
+531,Garnier,137
+532,Gasona_Kudos,2
+533,Geham,5
+534,Geisha,21
+535,Genteel,4
+536,Gentleman_Perfume_YardleyLondon,4
+537,Gerber,3
+538,GetReal,2
+539,Ghadi,97
+540,Ghee,525
+541,Ghee_Cow_PureBurst,4
+542,Gillette,80
+543,Girnar,19
+544,Gits,54
+545,GlassCleaner_Action,4
+546,Glicy,4
+547,Glow,10
+548,Glow-Handsome,10
+549,Glow-Lovely,7
+550,GlucoPlusC_Dabur,3
+551,GlucoPlusD_Dabur,2
+552,Glucon-D,4
+553,GluconD,98
+554,Glycerin,5
+555,Go,159
+556,GoalSportingClub_Denver,2
+557,Godrej,54
+558,GoldFlake_CigarettePack,2
+559,Gold_Nescafe,2
+560,GoldenScent_Next,1
+561,GoneMad,6
+562,Good Life toor dal,2
+563,Good life,26
+564,Good life masoor,6
+565,Good life urad whole,3
+566,GoodDay,48
+567,GoodHome,11
+568,GoodKnight,1
+569,GoodLife,44
+570,GoodMorning,1
+571,Gourmet-sDelite,3
+572,Gowardhan,1
+573,Grand_Coffee_Tata,2
+574,GreenChilliPickle_Nilon-s,1
+575,GreenChilliPickle_Tops,1
+576,GreenTea_Pocky,3
+577,GulabJamunMix_ Bambino,16
+578,GupShupPeanuts_Haldirams,1
+579,Guruji,86
+580,Gustora,12
+581,Guylian,4
+582,Hair-Care,48
+583,HairColor,12
+584,HairDryer_Babila,2
+585,HairOil_Clear,3
+586,HairOil_Indulekha,1
+587,Hair_Color_ColorMate,1
+588,Hajmola,3
+589,Haldiram-s_Chips,4
+590,Haldirams,659
+591,Haldirams_GujratiMix,4
+592,Haldirams_KajuMixture,1
+593,Haldirams_MoongDal,5
+594,Haldirams_Peanuts,1
+595,Hamilton_Perfume_Denver,3
+596,HandSanitizer,41
+597,HandSanitizer_Dettol,2
+598,HandSanitizer_Himalaya,3
+599,HandSanitizer_Lifeboy,3
+600,HandwashVitamins_LifeBouy,4
+601,Handwash_Herbal_Patanjali,8
+602,Handwash_Santoor,22
+603,Happilo,19
+604,Happilo_Almonds,3
+605,Happilo_PeanutButter,3
+606,HappyHappyCreme_Biscuit_Parle,3
+607,Haribo,1
+608,Harpic,188
+609,HastyTasty,6
+610,Hawanan Barbeque Cheese Popcorn,4
+611,Head-Shoulders,237
+612,HealthyLife,2
+613,Heinz,2
+614,HellMann-s_Mayonnaise,45
+615,Hellmanns,22
+616,Hem,6
+617,Herbal_Toothpaste_Colgate,8
+618,Hersheys,497
+619,Hersheys_MilkShake_vaneeliFlavour,7
+620,Hide-Seek_Chocolate_Parle,8
+621,Hide-Seek_CremeSandwiches,19
+622,Hide-Seek_Milano_ParlePlatina,1
+623,Hide-Seek_ParlePlatina,2
+624,Himalaya,316
+625,Hing_Ramdev,13
+626,Hit,7
+627,Hitkary,16
+628,Hocco,20
+629,HoneyOatmeal_Cookies_Unibic,4
+630,Honey_Barosi,1
+631,Honey_GoldDrops,21
+632,Honey_Lion,127
+633,Horlicks,495
+634,Horlicks women-s plus,12
+635,Hurricane_EnergyDrink,15
+636,HyderabadiBiryani_Rehmat,1
+637,HydraEnergy_Deodrant_WildStone,9
+638,IceCream,64
+639,IceCream_Amul,87
+640,IceCream_BaskinRobbins,39
+641,IceCream_Kulfi_Havmor,1
+642,IespressoCoffee_Davidoff,1
+643,ImliCandy_Ajwah,2
+644,IndiShop,4
+645,IndianSweet_MaysorePak_Nandini,16
+646,Indulekha,7
+647,Inhaler_Vicks,14
+648,Insect_Killer_Hit,23
+649,Insect_Killer_strategi,28
+650,Insight_Perfume,6
+651,Intense_Fragrance_Axe,3
+652,Iodex,1
+653,JMRFoods,21
+654,Jabsons,5
+655,Jackpot,18
+656,JaggeryPowder,17
+657,JainsTrupti,4
+658,Jalani,6
+659,Jaljira,2
+660,Jam_Kissan,7
+661,Jam_MixedFruit_Kissan,6
+662,Jam_Patanjali,3
+663,Jeera_GoodLife,10
+664,Jel_SetWet,1
+665,Jet_Imli_Toffee,1
+666,JewelFarmer,56
+667,Johnsons,180
+668,Joiner_Drink,22
+669,Joshina_Hamdard,2
+670,Jovees,16
+671,Joy,45
+672,Jucie_CranberryDelight_Tropicana,2
+673,Jucie_GuavaDelight_Tropicana,6
+674,Jugnu_NapthaleneBalls,5
+675,Juice_Apple_Natural,2
+676,Juice_CoconutMilkDrink_MangoNataDeCoco_Uglobe,2
+677,Juice_CoconutMilkDrink_PineappleNataDeCoco_Uglobe,6
+678,Juice_CranberryDelight_Tropicana,2
+679,Juice_Greenapple_Delmonte,4
+680,Juice_Guava_Real,1
+681,Juice_MixedFruit_Natural,1
+682,Juice_Orange_Real,4
+683,Juice_Peach_Delmonte,2
+684,Juice_Peach_Rani,7
+685,Juice_Pineapple_Delmonte,3
+686,Juice_Pomegranate_Joiner,2
+687,Juice_Pomegrate_Real,3
+688,Juice_Pomegrate_Real_Dabur,1
+689,Juice_Swing,44
+690,Juice_coconut_Paper_Boat,2
+691,JuniorTomatoKetchup_Tops,5
+692,KTH,1
+693,Kaffe,309
+694,KajuMixture_Bikano,1
+695,KalongiSeeds_Ajwah,2
+696,Kamasutra,17
+697,Kapiva,5
+698,KashmiriMixture_Bicano,6
+699,KashmiriMixture_Bikano,7
+700,KashurDal_HudHud,1
+701,KasundiSauce_Elmac,4
+702,Kehwa_Aram-s,2
+703,Kelloggs Corn Flakes Real Haney,9
+704,Kellogs,553
+705,KesarPeda_Ajwah,1
+706,KesarQueen,8
+707,KeshKing,97
+708,Keya,816
+709,KhattaMeetha_FirstCrop,10
+710,KhattaMithaMix_Haldirams,7
+711,Kids_Toothbrush_OralB,1
+712,Kimchi,68
+713,Kimchi_Samyang,7
+714,KinderJoy,72
+715,Kingfisher,1
+716,Kinley,89
+717,Kissan,501
+718,KitchenAffairs,6
+719,KitchenTreasures,40
+720,Knorr,82
+721,KuchKuch_Bikaji,3
+722,Kurkure,100
+723,Kurkure_ChatFills,16
+724,Kurkure_SizzlinHot,5
+725,Kwality,2
+726,Kwality_Muesli,3
+727,L-oreal,60
+728,LactoCalamine,1
+729,Lakme,7
+730,Lal,123
+731,LalMirchPaste_Aram-s,4
+732,Lassi_WinkinCowClassic_Britannia,13
+733,LaxmanRekhaa,1
+734,Layka,10
+735,Lays,261
+736,Lays_American,7
+737,Lays_ChilliLimbu,2
+738,Lays_Indian,9
+739,Lays_Spanish,13
+740,Lays_WestIndies,2
+741,LeCafe,10
+742,Lehar,8
+743,Lemon_Toothpaste_Colgate,7
+744,Lifebuoy,350
+745,Lime_Dishwash_Prill,10
+746,Limonata,1
+747,Lindt,106
+748,Lipton,614
+749,LiquidDeodrant_Lawman_pg3,17
+750,LiquidDetergent_Patanjali,1
+751,LiquidMosquitoRepellent_GoodNight,10
+752,Liril,5
+753,Listerine,21
+754,Lite,8
+755,LittleHearts,14
+756,Lizol,80
+757,LollipopTongueCleaner_DentoShine,1
+758,LondonBubble,6
+759,LondonMist_BodySpray_YardleyLondon,6
+760,LondonMist_Perfume_Yardley,3
+761,Lotte,10
+762,Lotus,16
+763,Lux,23
+764,M-M,69
+765,MB,6
+766,MDH,146
+767,MIxedFruit_Juice_Tropicana,10
+768,MTR,204
+769,Mad_Soap,2
+770,Madhubani,2
+771,Madhuri,4
+772,MadrasiNamkeen_Brij,2
+773,Maggi,2125
+774,Magnolia7GrapeFruit_Perfume_YardleyLondon,1
+775,Mahakosh,12
+776,Makhana,21
+777,Makino Nacho chips,4
+778,Mala_MixedFruitJam,1
+779,Malas,12
+780,Malkist,141
+781,Mangalam,1
+782,Mangaldeep,8
+783,MangoBite_Parle,2
+784,MangoFlavour_ToothpasteForKids_DentoShine,1
+785,MangoJuice_Fresca,4
+786,MangoMerry,10
+787,MangoPickle_ImliTree,4
+788,MangoPickle_Tops,5
+789,Manna,8
+790,Marie_McVities,7
+791,Mars,26
+792,Marvel,23
+793,MarvelTea,51
+794,MasalaMunch_Kurkure,9
+795,MasalaNoodles_TopRamen,5
+796,MasalaNoodles_Tops,2
+797,MasalaNoodles_maggi,54
+798,MasalaTikki_Kanwal,1
+799,Masala_CuppaNoodles_Maggi,163
+800,Masala_CuppaNoodles_Manchow,7
+801,Masala_TopRamen,2
+802,MaxFresh_Toothpaste_Colgate,51
+803,MaxProtein,90
+804,MazedaarMasala_CupNoodles,134
+805,Mazic,13
+806,McCain,89
+807,McVities,47
+808,MeatMasala_Orika,1
+809,Meiji,9
+810,MelonSeeds,4
+811,MilkBooster_PureBurst,9
+812,MilkCompound_Morde,5
+813,MilkMagic,19
+814,MilkShakti_Biscuit_Parle,24
+815,Milk_Everyday_Nestle,30
+816,Milk_Rusk_Mario,4
+817,Milka,10
+818,Milkshake_Badam_Cavins,1
+819,Milkshake_Chocolate_Cavins,1
+820,Milkshake_Straberry_Cavins,4
+821,Milkshake_Vanilla_Cavins,1
+822,Milky bar,11
+823,MilkyMist,117
+824,MiniChocolate_Oreo,2
+825,MiniJumbo_MosquuitoCoil_GoodNight,3
+826,MiniMeBakers,53
+827,MinuteMaid,3
+828,MirchiQuormaPaste_Kanwal,2
+829,Mishri,26
+830,MixedFruitJam_Sil,51
+831,MixedPickle_Nilon-s,3
+832,MixedPickle_Tops,2
+833,Mixture_ALLINONE,3
+834,Mixture_Ajwah,3
+835,Mixture_Bicano,4
+836,Mohuns,5
+837,Mojito_Orange_Cravova,29
+838,Mom,25
+839,Moments_Chocolate,2
+840,MomsMagic,11
+841,MomsMagic_Biscuit_Sunfeast,16
+842,Monaco_Biscuit_Parle,1
+843,Monaco_Cheeslings,4
+844,Monaco_PiriPiri,3
+845,MongDal_Bikaji,1
+846,Monita,18
+847,Monster,70
+848,MontexFoil,4
+849,MoongDal_Bikaji,1
+850,MoongFali,22
+851,Mopz Floral Fresh,4
+852,Mopz Lime Fresh,8
+853,MorningDew_Perfume_Yardley,15
+854,Morton,1
+855,MosquitoKiller_Mortein,8
+856,MosquitoOil_Genius_Maxo,9
+857,MosquitoRepellent,51
+858,MosquitoRepellentBlack_Hit,9
+859,MosquitoRepellentRed_Hit,3
+860,Mother-sRecipe,21
+861,MotherDairy,19
+862,MothersRecipe,118
+863,Muesli_King,2
+864,Munch Max,6
+865,MuscleBlaze,36
+866,Museli_Kellogs,10
+867,MustardOil,187
+868,MustardOil_ValleyKing,2
+869,MutterPaneer_MinuteMeals_MTR,3
+870,MutterPaneer_MinuteMeals_Mir,1
+871,MyFruit,4
+872,MysticWhite_Spinz,5
+873,NANPro,45
+874,Nafees,10
+875,NailClipper,16
+876,Nakoda,39
+877,Namkeen,5
+878,Namkeen_AllinOne_BC,12
+879,Namkeen_BombayMixture_BC,1
+880,Namkeen_KhattaMeetha_DC,6
+881,Namkeen_MultiGrain_Jabson,1
+882,NaturalChoice_ChannaDal,3
+883,NaturalChoice_MixDal,1
+884,NaturalChoice_MoongDal,1
+885,NaturalChoice_RajmaChitra,7
+886,NaturalColor_ColorMate,12
+887,NaturalGlow_Deodrant_Nivea,4
+888,NaturalHoney_Capilano,1
+889,Nature-sChoice_Kismis,4
+890,Nature-sChoice_MixedDryFruit,1
+891,Navratan,92
+892,Navratan_FirstCrop,12
+893,NeemActive_Toothpaste,14
+894,Neeraj,56
+895,Neo_BodySpray_ParkAvenue,1
+896,Nescafe,797
+897,Nestle,436
+898,Nestle Cerelac,55
+899,Nilon-s_SAUCE,3
+900,Nilons,86
+901,Nissin,25
+902,Nivea,271
+903,Nongshim,52
+904,NoodleSoup_ShinCup,2
+905,Noodles_Chings_Hot Garlic,3
+906,Noodles_Hakka Noodles,2
+907,Noodles_Jumbo,8
+908,Noodles_Yippee,245
+909,NoonChai_Girnar,2
+910,NoonChai_TezPremium,1
+911,Nusobee_Dexolac,2
+912,Nutella,43
+913,Nutraj,8
+914,Nutralite,28
+915,Nutrela,44
+916,Nutri choice thin arrowroot,12
+917,NutriDelite,17
+918,Nutricia,11
+919,Nutricrunch_Biscuit_Britannia,9
+920,Nutridelite,7
+921,Nuts_Fruits_Berries_Gourmia,1
+922,Nutveda,4
+923,Nyle,11
+924,OLiveOil_Sansu,2
+925,Oats_CrunchyMuesli_Grry-s,1
+926,Oats_ProteinRich_FirstCrop,69
+927,Odonil,49
+928,Oil_RefinedRice_Saffola,4
+929,Oil_Sesame_FirstCrop,12
+930,OldSpice,1
+931,OleevActive,23
+932,OleevSmart,1
+933,OliveOil,71
+934,OliveOil_Jivo,12
+935,OliveOil_KeoKarpin,10
+936,OrangeDrink_MinuteMaid,2
+937,OrangeFlavour_ToothpasteForKids_DentoShine,1
+938,OrangeJuice_Tropicana,3
+939,OrangeSplash_Cookies_Unibic,2
+940,Orbit,18
+941,Oreo,16
+942,OrganicAloeVera_Juice_Nimbark,6
+943,OrganicAmla-Juice_Nimbark,4
+944,OrganicIndia,177
+945,OrganicTattva,56
+946,Organica,7
+947,Organicana,4
+948,Oriental,2
+949,OriginalChocolate_Pepero,2
+950,Orion,2
+951,Ortho_Oil_Zandu,2
+952,Outshine_HandWash,2
+953,Pack_BadamDrink_MTR,4
+954,Pack_Chabaa_PineapplePulp,1
+955,Pack_Chabaa_RedGrapeFruit,5
+956,Pack_Coffee_Nescafe,3
+957,Pack_Delmonte_GreenApple,3
+958,Pack_Juice_Original,8
+959,Pack_Juice_Peach_Delmonte,2
+960,Pack_Juice_Pineapple_Delmonte,9
+961,Pack_Juice_rani,2
+962,PalakPaneer_MinuteMeals_MTR,1
+963,Pancake Mix,1
+964,Panchratna_Bikaji,2
+965,PaneerBhujia_Bikano,2
+966,Pansari_Poha,2
+967,PaperBoat,298
+968,PappaPig,2
+969,PaprikaCashews_GoldenGate,31
+970,Parachute,92
+971,Paramute,1
+972,ParisAgro,6
+973,ParkAvenue,80
+974,Parle,792
+975,ParleGRoyale_Biscuit_Parle,1
+976,ParleG_BigPack_Biscuit_Parle,7
+977,ParleG_Biscuit_Parle,8
+978,Parle_20_20_Nice_Biscuits,1
+979,Parrot,18
+980,Passion_Talc_Envy,7
+981,Pasta Masala,20
+982,Pasta_Fusilli_FirstCrop,13
+983,Pasta_Wokifield,2
+984,PastyPixel,1
+985,Patanjali,173
+986,Patisa_Haldirams,2
+987,PauBhaji_Gits,1
+988,Pav,1
+989,PeanutButter_MyFitness,8
+990,PeanutButter_funfoods,5
+991,PeanutChikki_Parmod,5
+992,Peanut_Butter_AmericanGarden,8
+993,Peanutbutter_Alpino,5
+994,Peanutbutter_FirstCrop,4
+995,Peanutbutter_Pinotola,2
+996,Pearl-Beauty_Deodrant_Nivea,3
+997,Pears,4
+998,PeasInBrine_GoldenCrown,3
+999,PediaSure,54
+1000,PeppaPig,4
+1001,Peppy,1
+1002,Perfume_Denver,2
+1003,Pichkoo_TomatoKetchup_Maggi,3
+1004,Pickle_DoubleHorse,271
+1005,Pickle_Garlic_Mother-s,13
+1006,Pickle_KitchenTreasures,92
+1007,Pickle_Lime_Mother-s,10
+1008,Pickle_Mango_Mother-s,10
+1009,Pickle_Mother-sRecipe,8
+1010,Piknik,7
+1011,PineappleJam_FullBloom,4
+1012,PineappleJam_Kissan,10
+1013,PineappleSlice_GoldenCrown,7
+1014,PinkDelight,6
+1015,PinkSalt,34
+1016,Pinkrush_facewash,11
+1017,Pintola,35
+1018,Pipo,36
+1019,Pistachios_Wonderland,33
+1020,Pitambari,4
+1021,PizzaCheese_Go,6
+1022,PlainBhujia_Haldirams,1
+1023,PlaxSpicyFresh_Colgate,5
+1024,PlumCake,12
+1025,Poha_FirstCrop,2
+1026,Poha_Fortune,4
+1027,Ponds,274
+1028,Ponds_CharcoalFaceWash,2
+1029,Popcorn_Ajwah,7
+1030,Potata_Biscuit_Pran,9
+1031,PotatoChips_Cream - Onion_FirstCrop,1
+1032,Pramod,20
+1033,Pramod Tilkut,18
+1034,Pramod chikki Gaja,1
+1035,Pramod peanut chikki,13
+1036,Pramod sweet bliss,2
+1037,Pramod_Tilkut,6
+1038,Pran,28
+1039,PremiumTea_Mohan,1
+1040,Prestige,8
+1041,Primora,10
+1042,Princles,4
+1043,Pringles,165
+1044,ProNature,2
+1045,Protect-Care_Deodrant_NIvea,4
+1046,ProteinPlus,12
+1047,ProteinWater_Aquatein,2
+1048,Protinex,41
+1049,Prunes,1
+1050,Puffs_Funflips,9
+1051,Pulse_CoolTalc_Axe,2
+1052,Pulse_Fragrance_Axe,5
+1053,Pulses,1710
+1054,Pulses_Goodlife,32
+1055,Pulses_SafeHarvest,145
+1056,Pulses_TataSampann,27
+1057,PunjabiChole_Gits,1
+1058,PunjabiTadka_Bikaji,3
+1059,PurHoney_Zandu,7
+1060,Pure,139
+1061,Purix,2
+1062,Pushp,76
+1063,Quaker,33
+1064,Queen_BodySpray_Vanesa,3
+1065,QuinoaSeeds_King,2
+1066,Raavi,5
+1067,RabdiDrink_Cavins,5
+1068,Racy,6
+1069,Rafaelo,2
+1070,Rajhans,4
+1071,RajmaMasala_Gits,2
+1072,RajmaMasala_RedayMeals_Gits,1
+1073,Ramu,3
+1074,Rani_Juice,10
+1075,RapidRelief_Sensodyne,7
+1076,Rasa,1
+1077,Rasna,31
+1078,RasoiMagic,13
+1079,RaspberryFlavour_ToothpasteForKids_DentoShine,3
+1080,Raw,103
+1081,RawPressery,69
+1082,ReadyToEatNoodles_WaiWai,9
+1083,Real,1886
+1084,RealThai,100
+1085,RealThal,4
+1086,Real_Juice,12
+1087,RedBull,227
+1088,RedChilliPowder_Badshah,1
+1089,RedChilliPowder_Kanwal,4
+1090,RedChilliPowder_Rehmat,8
+1091,RedChilliPowder_c,6
+1092,RedChilliSauce,9
+1093,RedCurrents_St.John,1
+1094,RedLabel,1478
+1095,RedTea_Mohan,3
+1096,RefinedOil,73
+1097,RefinedOil_Dhara,3
+1098,RefinedSoyabeanOil_NutriLive,1
+1099,Regular_GluconD,4
+1100,Repair-Protect_Sensodyne,2
+1101,RevitalH_Woman,1
+1102,Revive,71
+1103,Rex Baking Powder,23
+1104,Rice,691
+1105,Rice_Minimogra,4
+1106,Rich-Moist_PlumCake_Winkies,2
+1107,Rin,147
+1108,RiteBite,15
+1109,RoastedAndSaltedCashews_Happilo,1
+1110,RoastedChana_GoldenGate,4
+1111,RoastedFlexSeed_Ajwah,2
+1112,RockSalt,23
+1113,RoohAfza,26
+1114,RoomFreshner,20
+1115,Room_Mist_Lia,5
+1116,Rostaa,3
+1117,RoyalCupTea_Girnar,5
+1118,RoyalRatan,1
+1119,RoyalRedRoses_BodySpray_YardleyLondon,4
+1120,RoyaleGentleman_Perfume_Yardley,3
+1121,RuchiStar,2
+1122,Rusk_FirstCrop,1
+1123,Rusk_Toastea_Amul,1
+1124,SRK_AutographCollection_Denver,2
+1125,Sachamoti,1
+1126,SadaBahar,30
+1127,Sadabahar,60
+1128,Safal,6
+1129,SafeWash,24
+1130,Safffola,79
+1131,Saffola,233
+1132,Saffola Jammuni Veda,2
+1133,Saffola oil,37
+1134,SahiMixture_Bicano,1
+1135,Salt,71
+1136,Sams,11
+1137,Sanchi,9
+1138,Sapphire,18
+1139,SaraShree,10
+1140,SaunfPowder_Rehmat,5
+1141,Saunf_Everest,4
+1142,Savera,6
+1143,Savlon,65
+1144,Sayang,3
+1145,Schweppes,46
+1146,ScotchBrite,4
+1147,ScotchBrite_Scrubber,1
+1148,Seacod_CodLiverOilCapsules,11
+1149,SeedsandNuts_Happilo,1
+1150,SensitivePlus_Toothpaste_Colgate,8
+1151,Sensitive_Toothpaste_Colgate,4
+1152,Sensitivity-Gum_Sensodyne,2
+1153,ShahiMix_Bikano,3
+1154,Shampoo_Pantene,4
+1155,Shampoo_Shanelle,3
+1156,Shan,18
+1157,Shan_TandooriMasala,1
+1158,ShantaG,4
+1159,Shareat,8
+1160,ShavingFoam_ViJhon,9
+1161,Shero_Vanesa,2
+1162,Shot_Perfume_Layerr,3
+1163,ShudhUrja,6
+1164,Siddhayu,4
+1165,SilverCoin,14
+1166,Similac,8
+1167,Similac_FollowUpFormula_Abbot,1
+1168,Simple_GluconD,1
+1169,SizzlinHot_Kurkure,2
+1170,Skippi,12
+1171,Skittles,26
+1172,SlicedMushroom_Habit,5
+1173,SmartSecret_Fragrance_SummerSpring,3
+1174,SmithandJones,13
+1175,SnacTac,185
+1176,Snackible,6
+1177,Snacks_Ajwah,9
+1178,Snacks_Kuch-kuch_Bicano,1
+1179,Snacks_SnacLite_Haldirams,9
+1180,Snacks_ZigZag,1
+1181,Snactac,16
+1182,Snapin,32
+1183,Snicker,2
+1184,Snickers,189
+1185,Snug,5
+1186,SoYum,2
+1187,Soap,2874
+1188,SoapNo1_Godrej,17
+1189,Soap_Aloevera_Dettol,17
+1190,Soap_Camay,6
+1191,Soap_Dettol cool,4
+1192,Soap_Fresh,25
+1193,Soap_IcyCool_Dettol,29
+1194,Soap_Jasmine_Lux,24
+1195,Soap_Liril,18
+1196,Soap_Neem_Dyna,57
+1197,Soap_Original_Dettol,3
+1198,Soap_Rose_Lux,22
+1199,Soap_Sandal_Dyna,34
+1200,Soap_fena,10
+1201,Society,21
+1202,SocietyTea,1
+1203,Sofit,79
+1204,SoftDrink,3177
+1205,SoftDrink_Rasna,10
+1206,SoftDrink_cola_Campa,3
+1207,SoftDrink_sprite_Campa,2
+1208,Softdrink_thumbsup,2
+1209,Softouch,23
+1210,Soni Fresh,1
+1211,SoyaChunks_Ei8amhit,2
+1212,SoyaSticks-s_Bikaji,3
+1213,SoyaSticks_Bhujialalji,6
+1214,SoyaSticks_Jabsons,2
+1215,Soya_Sauce_Nilons,2
+1216,Spice_Everest,3
+1217,Spices_24MantraOrganic,32
+1218,Spices_Catch,145
+1219,Spices_FineLife,193
+1220,Spices_MDH,78
+1221,Spices_ProNature,74
+1222,SportingClub_Denver,5
+1223,Spreads_Hershey-s,164
+1224,SpringBlossom_perfume_YardleyLondon,3
+1225,SriSri,4
+1226,StarBlossom_Perfume_YardleyLondon,4
+1227,StarFlowerrazi_Perfume_Yardley,4
+1228,Stayfree,31
+1229,Sting,141
+1230,Storia,149
+1231,StrawberryFlovour_ToothpasteForKids_DentoShine,3
+1232,Streax,32
+1233,String,3
+1234,StrongTeeth_Toothpaste_Colgate,10
+1235,StuffedChilliPickle_Tops,1
+1236,SubhKamal,2
+1237,Suffola,27
+1238,Sugar,79
+1239,SugarFree,325
+1240,SugarFreeCookies_Gaia,1
+1241,SugarFree_BiskFarm,5
+1242,SugarLite,30
+1243,Suhana,71
+1244,Sultan_Scent_Fogg,2
+1245,Sundrop,71
+1246,Sunfeast,504
+1247,Sunfeast Glucose plus,1
+1248,SunflowerOil_Cargill,4
+1249,SunflowerSeed_Ajwah,4
+1250,SunflowerSeeds_King,1
+1251,Sunrich,4
+1252,Sunscream_Lakme,6
+1253,Sunsilk,120
+1254,SuperSarvottam,7
+1255,SurfExcel,351
+1256,SurfaceDisinfectantSpray_Savlon,21
+1257,Svami,11
+1258,Swach,23
+1259,Swadist,29
+1260,Swaminarayan,4
+1261,SweetCorn_Snacko,1
+1262,SwwetCorn_Sundrop,2
+1263,SyntheticClearVinegar_Solar,4
+1264,T-Boost_TrueBasics,1
+1265,TaaliPeanuts,3
+1266,Taaza,77
+1267,TabelSalt_catch,7
+1268,Tadaa,4
+1269,TajMahal,863
+1270,Talati,44
+1271,Talod,8
+1272,Tamarind,7
+1273,Tamarind_Dishwash_Prill,2
+1274,Tamarind_Priya,1
+1275,Tang,73
+1276,TastyNutes_Bikano,2
+1277,TastyNutes_FirstCrop,4
+1278,Tata,241
+1279,TataGold,305
+1280,TataPremium,262
+1281,TataTea taaza,2
+1282,Tata_Agni,131
+1283,TeaCountry,13
+1284,TeaTime,4
+1285,TeaValley,2
+1286,Tea_3Roses_BrookeBond,191
+1287,Tea_ElaichiChai_Shera,3
+1288,Tea_Mayur,2
+1289,Tea_Ruby_BrookeBond,69
+1290,Tea_Shera,1
+1291,Tea_royal,3
+1292,Tealeaves_DoubleDiamond,27
+1293,TedheMedhe_Bingo_AlooBhuja,5
+1294,TedheMedhe_Bingo_PulseMix,6
+1295,TeekhaMeetha_Bhujialalji,3
+1296,TeekhaMeetha_FirstCrop,17
+1297,Tetley,267
+1298,TheBakersDozen,21
+1299,TicTac,17
+1300,Tide,91
+1301,Tiffany,6
+1302,Tiger,26
+1303,Timios,1
+1304,Tingle,20
+1305,Toblerone,62
+1306,Toffee_Ajwah,1
+1307,ToiletCleaner_Expelz,8
+1308,TomatoChilliSauce_Maggi,1
+1309,TomatoDiscs_Peppy,6
+1310,TomatoKetchup,224
+1311,TomatoPuree_GodenCrown,4
+1312,TomatoPuree_Kissan,35
+1313,TomatoSoup_Bambino,5
+1314,TongGarden,64
+1315,TooYumm,77
+1316,ToothBrush,257
+1317,ToothPaste,2102
+1318,ToothPaste_CloseUp_ExtremeCool,3
+1319,ToothPaste_PepsodentG,4
+1320,ToothPowder_Colgate,10
+1321,Toothbrush_Sensodyne,7
+1322,ToothpasteForLittleOnes_DentoShine,3
+1323,Toothpaste_Meswak,5
+1324,Toothpaste_Meswak_Dabur,12
+1325,Toothpaste_RedGel_Dabur,18
+1326,Toothpaste_Red_BAEFresh_Dabur,9
+1327,Toothpaste_tulsi_Dabur,5
+1328,TopBiscuit_Parle,10
+1329,TopNTown,41
+1330,TopNut,5
+1331,TopRamen,334
+1332,Top_Biscuit_Parle,1
+1333,Top_Ramen,6
+1334,Tops,144
+1335,Tops_DrinkingChocolate,2
+1336,Total12_Toothpaste_Colgate,8
+1337,TragacanthGum_Ajwah,1
+1338,Trail_Mix_DryFruit,2
+1339,Trapa,35
+1340,Treat_BasmatiRice,2
+1341,Trelish,9
+1342,Tresemme,123
+1343,Trident,15
+1344,TriphalaChurna_Baidyanath,32
+1345,Tropicana,414
+1346,Truffles_Joyland,3
+1347,Trump_Scent_Fogg,3
+1348,TulsiGingerTurmeric_OrganicIndia,1
+1349,TunaNaturalOil_GoldenCrown,2
+1350,TunaOil_GoldenCrown,3
+1351,TurkishApricot_Happilo,2
+1352,TurmericPowder_Kanwal,2
+1353,TurmericPowder_Rehmat,10
+1354,Twinings,49
+1355,TwistiesNamkeen_FirstCrop,3
+1356,Twix,16
+1357,Tycoon_Scent_Fogg,4
+1358,Ujala,33
+1359,UltraPowerBalm_Zandu,1
+1360,UltraSensual_Deodrant_WildStone,4
+1361,UncleChips,7
+1362,Unibic,134
+1363,Unibic_CashewBadam_Cookies,8
+1364,Upma_Bambino,20
+1365,Upma_MTR,35
+1366,Utsav,12
+1367,VJohn,2
+1368,VWash,4
+1369,Vahdam,2
+1370,VajradantiSF_Toothpaste_Vicco,1
+1371,Vanish,83
+1372,Vaseline,170
+1373,Vatika,25
+1374,VedShakti_Toothpaste_Colgate,2
+1375,Veeba,883
+1376,VegBiryani_Gits,1
+1377,VegMayonnaise_Imli_Tree,4
+1378,VegMayonnaise_Veeba,5
+1379,VeganMayo_HellManns,6
+1380,Veggi_CupNoodles_Manchow,87
+1381,VeggieManchow_CupNoodles,75
+1382,Vermicelli,6
+1383,Vicks,82
+1384,Vicks_VapoRub_SteamPads,1
+1385,Vidal,7
+1386,Vim,1225
+1387,Vim Anti bac,11
+1388,Vinegar,19
+1389,Vinegar_Everest,2
+1390,VisibleWhite_Toothpaste_Colgate,17
+1391,VitaminCapsules_Seacod,25
+1392,Voilet-Raspberry_Perfume_YardleyLondon,2
+1393,Voyage_Perfume_ParkAvenue,9
+1394,WSQ_VICCO,1
+1395,WaferRoll_Champion,1
+1396,Wafer_Orange_FullBloom,5
+1397,Wafer_Strawberry_FullBloom,16
+1398,Wafers_Gastone_Lago,6
+1399,Wafers_Tirameso_Creweto,1
+1400,Wafers_Treat_Britannia,10
+1401,WaffleBites_Craveto,1
+1402,Waffy_Parle,33
+1403,WaghBakri,144
+1404,WaiWai,58
+1405,Walnut,15
+1406,WalnutKernels_Kohinoor,1
+1407,Walnut_Nutraj,3
+1408,Water,207
+1409,WatermelonFlovour_ToothpasteForKids_DentoShine,6
+1410,WeikField,42
+1411,Weikfield,133
+1412,WellnessCollection_TGLCo.,1
+1413,Wheel,4
+1414,Whisper,71
+1415,WhiteBread_Dewz,1
+1416,WhiteCurrents_St.John,1
+1417,WhiteningSmoothSkin_Deodrant_Nivea,4
+1418,Whitening_Sensodyne,1
+1419,Wilkinson_Sword_Gillette,2
+1420,Win2,5
+1421,Winegreens,9
+1422,Winkies,58
+1423,Women-sPlus_Horlicks,14
+1424,WomensPlus,74
+1425,WottaGirl_Perfume_Layerr,18
+1426,Yardley,18
+1427,Yeah,13
+1428,Yeast,72
+1429,YellowBananaChips_Haldirams,9
+1430,YellowBlossom_Spinz,4
+1431,YogaBar,13
+1432,Yogurt,1
+1433,Yummies,1
+1434,Yummiez,9
+1435,Yummy,2
+1436,Zandu,44
+1437,ZanduBalm,1
+1438,Zenzi,5
+1439,Zouk_BodySpray_ParkAvenue,1
+1440,ZzzQuil_Natura,1
+1441,aachar-sethi,332
+1442,aashirvaad milk,9
+1443,adzanarice_charminar,2
+1444,agra petha,2
+1445,aircleaner_airwick,8
+1446,aircleaner_campure,5
+1447,airfreshber_koparo,4
+1448,airfreshner_hifresh,5
+1449,airfreshner_lavender,9
+1450,airfreshner_wonderfresh,3
+1451,almondmilk_at,9
+1452,amul cow milk,1
+1453,amul masti dahi,1
+1454,amul moti milk,8
+1455,amulcow milk,3
+1456,amulmilk,3
+1457,amulmithai mate,10
+1458,amulspray infant milk food,10
+1459,ananda ghee,3
+1460,apple_fishermanfriend,2
+1461,appy,2
+1462,aquafly_water,14
+1463,asian cosmos,2
+1464,axe,1
+1465,bagrry-s corn flakes,17
+1466,bajaj hair oil,2
+1467,bajaj majesty RX11,1
+1468,banana fryums,2
+1469,bansal tableware,49
+1470,batook,2
+1471,bc bikaneri rasgulla,4
+1472,bc_rasgulla_ bikaneri,8
+1473,beer_oldammaiga,10
+1474,besen,4
+1475,betty crocker pancske mix,1
+1476,bicano kaju mixture,1
+1477,bikaneri bhujia first crop,10
+1478,bikaneri_bhujia_firstcrop,7
+1479,bikano bhelpuri mixture,1
+1480,bikano time mixture,2
+1481,biscuit_bourbon,76
+1482,biscuit_deluxe,1
+1483,biscuit_sugarcracker,2
+1484,bisk farn googly,2
+1485,biskfarm eat fit,14
+1486,biskfarm top herbs,6
+1487,black salt zoff,3
+1488,borges,9
+1489,boroplus_bodylotion,1
+1490,britannia cow ghee,1
+1491,britannia the laughiung cow,1
+1492,britannia tiger crunch,6
+1493,britannia50 50 time pass,5
+1494,britanniacheese slicess,4
+1495,brown - Polson custard powder,1
+1496,camembert,1
+1497,campoor,20
+1498,candy_kisses,3
+1499,candy_m-m,10
+1500,candy_nerds,4
+1501,candy_ricola,15
+1502,catch black papper,6
+1503,catch red chilli powder,4
+1504,catch_black_papper,8
+1505,cello,22
+1506,chabaa_redgrape,3
+1507,chabaa_whitegrapefruit,1
+1508,chana dal,1
+1509,cheese-corn bite,1
+1510,cheese_soignon,2
+1511,chile,2
+1512,chings soy sauce,2
+1513,chocalateHorlicks,1
+1514,choclate-gaia,5
+1515,choclate_ambriona,1
+1516,choclate_epigamia,2
+1517,choclate_lindberg,39
+1518,choclate_loacker,9
+1519,choclate_melt,1
+1520,classic bread,1
+1521,cobra,1
+1522,coconut milk_uglobe,9
+1523,cod Liver oil capsules,12
+1524,colgate max,2
+1525,conditioner natural,2
+1526,cookie_merba,3
+1527,cool freshness,2
+1528,cows_ghee,5
+1529,cream-vlcc,27
+1530,crop oats Yummy protein-rich oats,2
+1531,cup noodles italiano,33
+1532,dabar anmol hair oil,6
+1533,dabar champrash,1
+1534,dabar gulabari moisturizing,1
+1535,dabur babool,4
+1536,dahi_at,10
+1537,dalda,10
+1538,danaram,1
+1539,dantkanti,156
+1540,dark fantasy sandwich cream,14
+1541,delisoga,2
+1542,double diamond tea,100
+1543,dove daily shine shampoo,4
+1544,dove intense repair shampoo,4
+1545,dozo power wash,15
+1546,drink_toran,5
+1547,drink_torani,5
+1548,drools,2
+1549,dyna neem soap,48
+1550,elmac lemon,1
+1551,emami 7oils,8
+1552,expelz ultra clean,8
+1553,expelz_ultraclean,3
+1554,facewash_beardo,1
+1555,facewash_coffee,2
+1556,facewash_wow,18
+1557,fair and handsome,1
+1558,fanta,2
+1559,femina casserole,5
+1560,figo detergent,53
+1561,first crop all in one mixture,24
+1562,first crop aloo bhujia,66
+1563,first crop besan,2
+1564,first crop butter cookies,4
+1565,first crop cream onion potato chips,1
+1566,first crop dry fruit,4
+1567,first crop instant noodle,21
+1568,first crop navratan,12
+1569,first crop oats,111
+1570,first crop peanut butter,10
+1571,first crop tasty peanut,16
+1572,first crop tastypeanuts,17
+1573,first crop zahidi dates,5
+1574,fist crop navratan,1
+1575,fist crop oats,11
+1576,fortune indori poha,5
+1577,fresca_greenapple,1
+1578,freshNatural_Deodrant_Nivea,4
+1579,full bloom,6
+1580,full bloom classic tea,2
+1581,full bloom ketchup,1
+1582,full bloom strawberry,2
+1583,gaurianjeer,2
+1584,ghee_Patanjali,10
+1585,ghee_milkfood,1
+1586,ginger nuts,1
+1587,gits rabdi,5
+1588,glow-lovely_cream,15
+1589,glow-lovely_winter brightcream,2
+1590,gluta-hya_Vaseline,1
+1591,go cheese processed,5
+1592,go pizza cheese,8
+1593,godrej yummiez,2
+1594,godrejrich creme,1
+1595,goldengate roasted almonds,6
+1596,good life chana dal,8
+1597,good life jeera,4
+1598,greenmint_Mala-s,1
+1599,harpic,11
+1600,hathi brand mustard oil,10
+1601,hawkins,4
+1602,head and shoulder 2 in 1,9
+1603,highonCranberry_Beer_Coolberg,6
+1604,himalaya complete care,1
+1605,himalaya neem face wash,3
+1606,himalaya shampoo,3
+1607,himalayan body lotion,2
+1608,hotdog,5
+1609,icecream_creambell,15
+1610,imli treengreen chilli pickle,5
+1611,inchi,6
+1612,independence,10
+1613,independence biryani special,4
+1614,independence dal,2
+1615,india gate jeera rice,2
+1616,indica easy hair colour,4
+1617,intense engage,5
+1618,jira_goodlife,1
+1619,johnson,33
+1620,joyo clean max,1
+1621,juice_edwesis,9
+1622,juice_sante,6
+1623,junior horlicks,9
+1624,kachi ghani mustard oil first crop,8
+1625,kakaji,1
+1626,kelloggy-s corn flakes real honey,1
+1627,kellogs corn flakes,1
+1628,keya all purpose,1
+1629,keya piri piri,8
+1630,kissan mixed fruit jam,5
+1631,kissan peanut butter,1
+1632,knorr chicken soup,1
+1633,krack track,1
+1634,light frydrate_Vaseline,1
+1635,livon,2
+1636,loreal colour protect shampoo,12
+1637,lotus moisturiser,1
+1638,lotus whiteglow,1
+1639,making corn,1
+1640,mala jamun jam,3
+1641,malist cheese,8
+1642,mama earth baby body wash,1
+1643,mamaearth baby body wash,4
+1644,manish,1
+1645,manypoko pants,1
+1646,masala chai,2
+1647,masala_sbm,5
+1648,masti oye,38
+1649,max protein daily,1
+1650,maza,3
+1651,mdh amchur powder,1
+1652,mdh hing,1
+1653,mdh jeera powder,1
+1654,mdh kashmiri mirch,2
+1655,mdh lal mirch,4
+1656,melody,1
+1657,men turbobright_Garnier,1
+1658,meusli,1
+1659,mevities ginger nuts,8
+1660,milton,13
+1661,minakshi ghee,5
+1662,miranda,5
+1663,mixture_indiaah,2
+1664,mohan red tea,11
+1665,mosquito repllent_baygon,11
+1666,mosquito repllent_bbhome,5
+1667,mosquito repllent_mamaearth,5
+1668,mosquito repllents_bodyguard,12
+1669,mosquito repllents_campure,15
+1670,mother ginger pickle,1
+1671,mother recipe garlic pickle,1
+1672,mother teekha meeth,3
+1673,mothers upma,6
+1674,mothers_upma,2
+1675,mstick,2
+1676,munch the cashew,3
+1677,mushroom Soup_Knorr,1
+1678,my home,4
+1679,namaste india desi ghee,2
+1680,napthaleneballs_ultra,3
+1681,natural amla shikakai shampoo,5
+1682,nescafe classic blast roast,1
+1683,nestle lactogen pro,2
+1684,nestle nan pro,9
+1685,nimbu hi nimbu clanser,4
+1686,nivea men deep impact,3
+1687,noodles_MastiOye,65
+1688,nutralite sampriti ghee,5
+1689,oil_iris,14
+1690,organic suji,1
+1691,osam dahi,3
+1692,osam plain dahi,3
+1693,osam plaindahi,3
+1694,outshuine,4
+1695,pack_chabaa_whitegrapefruit,4
+1696,paint_asianpaint,3
+1697,paneer butterMasala_CuppaNoodles_Maggi,2
+1698,pantene advance hairfall solution shampoo,37
+1699,paraclute body lotion,3
+1700,parle jaggery,1
+1701,parle occasions,7
+1702,parth jaggery,3
+1703,patanjali saundarya face wash,1
+1704,peanut_Bicano,2
+1705,pedigree,63
+1706,phenyl_ambetol,8
+1707,poloqueen healthy,2
+1708,poloqueen jasmine,4
+1709,poloqueen lemon,8
+1710,poltcab,1
+1711,potato fryums,1
+1712,potatochips_kakaji,3
+1713,prabhaji  jhakaas mix,2
+1714,prabhaji  moong daal,7
+1715,prabhaji all in one,2
+1716,prabhaji bhujia,3
+1717,prabhaji chat pata,1
+1718,prabhaji khata meetha,1
+1719,prabhji khatta meetha,1
+1720,prabhuji moong dal -,1
+1721,priemer_terminator,1
+1722,priya gold CNC,43
+1723,punch the healthy crunch chile,6
+1724,punchthehealthy_crunch_chile,1
+1725,pure burst cow ghee,8
+1726,pureGhee_Amul,9
+1727,quickwrapp,7
+1728,real man,2
+1729,redpaste,398
+1730,rite bite nuts-seeds,1
+1731,riya bindas,1
+1732,riya hum tum,2
+1733,roasted vermicelli,1
+1734,roomfreshner_ambipur,25
+1735,ruchi kheer mix,3
+1736,ruchiayuna jaggery,2
+1737,saffalo masala oats,21
+1738,saffalo oats,2
+1739,saffola mustard oil,1
+1740,sauce_schezwan,4
+1741,savlon deep clean,5
+1742,sawan,2
+1743,shahi pariwar mustard oil,9
+1744,shampoo_Natural,4
+1745,shaving_foam_gillete,2
+1746,snac tac chana,13
+1747,snac tac hot -sour soup,3
+1748,snac tac moong dal,3
+1749,snac tac navratan mix,2
+1750,snac tac tomato ketchup,1
+1751,snac tac tomato soup,3
+1752,snacks_jabsons,1
+1753,snowhite detergent powder,1
+1754,soap-protam,17
+1755,soap-santoor,5
+1756,soap-savloon,3
+1757,soap_ghari,38
+1758,soap_nip,19
+1759,soap_no.1,62
+1760,softdrink_arupe,6
+1761,softdrink_edwises,3
+1762,softdrink_evocus,4
+1763,softdrink_raze,3
+1764,softdrink_v8,7
+1765,sofy anti bacteria,2
+1766,soya chunks,7
+1767,soya sauce_sam,1
+1768,spice chicken_CuppaNoodles_Maggi,1
+1769,spout,12
+1770,spray_moov,30
+1771,sudha lassi,9
+1772,sudha milk,34
+1773,sudha peda,1
+1774,sundrop oil,86
+1775,sunfeast dream,1
+1776,sweet bliss peanut chikki,7
+1777,sweet corn chicken soup_Knorr,2
+1778,sweet_marshmelts,4
+1779,tata samparn hing,1
+1780,tea-tgl,1
+1781,the man companyaloevera,10
+1782,tomato fryums,4
+1783,top Ramen masala,5
+1784,top herbs,6
+1785,top ramen curry,3
+1786,towels_blooms,22
+1787,troplcana,2
+1788,tsauce_ops,2
+1789,uncl,5
+1790,vaseline deep moisture,4
+1791,vasmol kesh kala,1
+1792,veg cheese finger,1
+1793,vicco,40
+1794,vim Maha bar,16
+1795,vintagecheddar_wyke,3
+1796,vlcc charco,1
+1797,vlcc eternal youth skin firming,1
+1798,vlcc insta glow diamonfd bleach,1
+1799,wafers-moneta,2
+1800,wafers_unibic,3
+1801,wal wal takka,3
+1802,weikfield,3
+1803,whippingcream,75
+1804,whiskas,23
+1805,white hansha jasmine fragrance,1
+1806,white hansha rose fragrance,1
+1807,white hansha sanitary,17
+1808,whiteningSensitive_Deodrant_Nivea,4
+1809,wiekfeild custard powder,1
+1810,wildstone code,3
+1811,woodpriemer_terminator,2
+1812,yardley talc,4
+1813,yardleys after shave lotionn,6
+1814,yippee,1
+1815,zoff,4
